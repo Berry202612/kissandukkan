@@ -17,7 +17,8 @@
     "create-admin": "tsx scripts/create-admin.ts",
     "scrape": "tsx scripts/scrape/index.ts",
     "import": "tsx scripts/import/index.ts",
-    "demo-images": "tsx scripts/demo-images.ts"
+    "demo-images": "tsx scripts/demo-images.ts",
+    "vercel-build": "node scripts/vercel-build.mjs"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"

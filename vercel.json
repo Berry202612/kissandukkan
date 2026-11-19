@@ -1,6 +1,13 @@
 {
   "crons": [
-    { "path": "/api/cron/cancel-pending", "schedule": "30 3 * * *" },
-    { "path": "/api/cron/review-requests", "schedule": "0 4 * * *" }
-  ]
+    {
+      "path": "/api/cron/cancel-pending",
+      "schedule": "30 3 * * *"
+    },
+    {
+      "path": "/api/cron/review-requests",
+      "schedule": "0 4 * * *"
+    }
+  ],
+  "buildCommand": "npm run vercel-build"
 }
