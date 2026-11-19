@@ -2,7 +2,7 @@
  * Copy the product catalogue from the local database to another database (e.g. Neon for Vercel).
  *
  *   1. Put the target connection string in .env.neon.local (gitignored):
- *        TARGET_DATABASE_URL="postgresql://...neon.tech/neondb?sslmode=require"
+ *        TARGET_DATABASE_URL="postgres://...@db.prisma.io:5432/postgres?sslmode=require"
  *   2. npm run push-catalog
  *
  * Copies brands, categories, sub-categories, crops, suppliers, products, variants, crop links,
@@ -11,9 +11,16 @@
  * name) are left untouched, so running it twice is safe. Customers, orders and reviews are NOT copied.
  */
 import { readFileSync, existsSync } from "node:fs";
+import { execSync } from "node:child_process";
 import { PrismaClient } from "@prisma/client";
 
-function targetUrl() {
+function targetUrl(): string {
+  const u = rawTargetUrl();
+  if (!/^postgres(ql)?:\/\//.test(u)) throw new Error("Use the connection string that starts with postgres:// (not prisma+postgres://).");
+  return u;
+}
+
+function rawTargetUrl() {
   if (process.env.TARGET_DATABASE_URL) return process.env.TARGET_DATABASE_URL;
   const f = ".env.neon.local";
   if (existsSync(f)) {
@@ -52,6 +59,10 @@ const opt = (m: Map<string, string>, id: string | null) => (id ? req(m, id) : nu
 
 async function main() {
   console.log(`Target: ${url.replace(/\/\/[^@]+@/, "//***@").split("?")[0]}`);
+  // Make sure the target has every table and the starter content before copying.
+  const env = { ...process.env, DATABASE_URL: url, DIRECT_URL: url };
+  execSync("npx prisma migrate deploy", { stdio: "inherit", env });
+  execSync("npx prisma db seed", { stdio: "inherit", env });
   await dst.$queryRaw`SELECT 1`;
 
   const brands = await sync("Brands", await src.brand.findMany(), "slug", (await dst.brand.findMany({ select: { id: true, slug: true } })).map((x) => ({ id: x.id, k: x.slug })), (d) => dst.brand.createMany({ data: d, skipDuplicates: true }));

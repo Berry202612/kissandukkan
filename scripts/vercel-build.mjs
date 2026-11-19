@@ -7,9 +7,9 @@ if (!env.DATABASE_URL) {
   console.error("DATABASE_URL is not set. Add it in Vercel → Settings → Environment Variables.");
   process.exit(1);
 }
-// Migrations need a direct (non-pooled) connection. The Neon integration names it
-// DATABASE_URL_UNPOOLED; fall back to DATABASE_URL if neither is set.
-env.DIRECT_URL ||= env.DATABASE_URL_UNPOOLED || env.POSTGRES_URL_NON_POOLING || env.DATABASE_URL;
+// Migrations need a direct (non-pooled) connection:
+// DATABASE_URL_UNPOOLED (Neon) or POSTGRES_URL (Prisma Postgres); else DATABASE_URL.
+env.DIRECT_URL ||= env.DATABASE_URL_UNPOOLED || env.POSTGRES_URL_NON_POOLING || (env.DATABASE_URL.startsWith("prisma") ? env.POSTGRES_URL : "") || env.DATABASE_URL;
 
 const run = (cmd) => {
   console.log(`\n> ${cmd}`);
