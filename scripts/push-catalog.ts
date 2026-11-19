@@ -62,7 +62,7 @@ async function main() {
   // Make sure the target has every table and the starter content before copying.
   const env = { ...process.env, DATABASE_URL: url, DIRECT_URL: url };
   execSync("npx prisma migrate deploy", { stdio: "inherit", env });
-  execSync("npx prisma db seed", { stdio: "inherit", env });
+  if (!process.env.SKIP_SEED) execSync("npx prisma db seed", { stdio: "inherit", env });
   await dst.$queryRaw`SELECT 1`;
 
   const brands = await sync("Brands", await src.brand.findMany(), "slug", (await dst.brand.findMany({ select: { id: true, slug: true } })).map((x) => ({ id: x.id, k: x.slug })), (d) => dst.brand.createMany({ data: d, skipDuplicates: true }));
