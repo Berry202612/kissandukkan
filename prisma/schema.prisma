@@ -1,0 +1,794 @@
+// KissanDukkan – database schema
+// Supplier / cost data lives in Supplier, SupplierListing, ProcurementItem and
+// ProductVariant.costPrice. Public queries must NEVER select these
+// (see src/lib/catalog.ts and tests/supplier-leak.test.ts).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+enum Role {
+  CUSTOMER
+  STAFF
+  ADMIN
+}
+
+enum Locale {
+  en
+  hi
+}
+
+enum ProductStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum ImageStatus {
+  NONE
+  CATEGORY_FALLBACK
+  DISTRIBUTOR
+  OWN_PHOTO
+}
+
+enum FulfilledBy {
+  OWN_STOCK
+  SUPPLIER_DIRECT
+}
+
+enum LicenceType {
+  PESTICIDE
+  FERTILIZER
+  SEED
+  NONE
+}
+
+enum SupplierType {
+  ONLINE_STORE
+  DISTRIBUTOR
+  BRAND
+}
+
+enum OrderStatus {
+  PAYMENT_PENDING
+  PLACED
+  CONFIRMED
+  PACKED
+  ORDERED_FROM_SUPPLIER
+  SHIPPED
+  OUT_FOR_DELIVERY
+  DELIVERED
+  CANCELLED
+  REPLACEMENT
+  REFUNDED
+}
+
+enum PaymentMethod {
+  RAZORPAY
+  COD
+}
+
+enum PaymentStatus {
+  PENDING
+  CAPTURED
+  FAILED
+  REFUNDED
+  PARTIALLY_REFUNDED
+}
+
+enum ProcurementStatus {
+  TO_ORDER
+  ORDERED_FROM_SUPPLIER
+  SUPPLIER_SHIPPED
+  DELIVERED
+}
+
+enum ShipmentStatus {
+  PENDING
+  CREATED
+  PICKED_UP
+  IN_TRANSIT
+  OUT_FOR_DELIVERY
+  DELIVERED
+  RTO
+  CANCELLED
+}
+
+enum ReturnType {
+  REPLACEMENT
+  RETURN
+}
+
+enum ReturnStatus {
+  REQUESTED
+  APPROVED
+  REJECTED
+  COMPLETED
+}
+
+enum ReviewStatus {
+  PENDING
+  PUBLISHED
+  HIDDEN
+}
+
+enum TicketStatus {
+  OPEN
+  ANSWERED
+  CLOSED
+}
+
+enum CouponType {
+  PERCENT
+  FLAT
+}
+
+enum ImportStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+// ───────────────────────── Users & auth ─────────────────────────
+
+model User {
+  id                String    @id @default(cuid())
+  name              String
+  email             String?   @unique
+  mobile            String?   @unique
+  passwordHash      String
+  role              Role      @default(CUSTOMER)
+  permissions       String[]  @default([]) // STAFF: e.g. "view_costs"
+  isBlocked         Boolean   @default(false)
+  locale            Locale    @default(en)
+  emailOptIn        Boolean   @default(true)
+  orderUpdatesOptIn Boolean   @default(true)
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  addresses    Address[]
+  orders       Order[]
+  wishlist     WishlistItem[]
+  reviews      Review[]
+  questions    Question[]
+  tickets      Ticket[]
+  resetTokens  PasswordResetToken[]
+  returns      ReturnRequest[]
+  auditLogs    AuditLog[]
+}
+
+model PasswordResetToken {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tokenHash String   @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime @default(now())
+}
+
+model LoginAttempt {
+  id         String   @id @default(cuid())
+  identifier String
+  success    Boolean
+  createdAt  DateTime @default(now())
+
+  @@index([identifier, createdAt])
+}
+
+model Address {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  phone     String
+  line1     String
+  line2     String?
+  landmark  String?
+  city      String
+  district  String?
+  state     String
+  pincode   String
+  isDefault Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+// ───────────────────────── Catalogue ─────────────────────────
+
+model Category {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name_en     String
+  name_hi     String
+  description_en String @default("")
+  description_hi String @default("")
+  seoText_en  String   @default("")
+  seoText_hi  String   @default("")
+  illustration String  @default("leaf") // key of a built-in line illustration
+  sortOrder   Int      @default(0)
+  hsnCode     String?
+  gstRate     Decimal? @db.Decimal(5, 2)
+  isActive    Boolean  @default(true)
+
+  subCategories SubCategory[]
+  products      Product[]
+}
+
+model SubCategory {
+  id         String   @id @default(cuid())
+  slug       String   @unique
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  name_en    String
+  name_hi    String
+  sortOrder  Int      @default(0)
+  isActive   Boolean  @default(true)
+  products   Product[]
+}
+
+model Crop {
+  id           String  @id @default(cuid())
+  slug         String  @unique
+  name_en      String
+  name_hi      String
+  seoText_en   String  @default("")
+  seoText_hi   String  @default("")
+  sortOrder    Int     @default(0)
+  isActive     Boolean @default(true)
+  products     ProductCrop[]
+}
+
+model Brand {
+  id        String    @id @default(cuid())
+  slug      String    @unique
+  name      String    @unique
+  isActive  Boolean   @default(true)
+  products  Product[]
+}
+
+model ProductCrop {
+  productId String
+  cropId    String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  crop      Crop    @relation(fields: [cropId], references: [id], onDelete: Cascade)
+
+  @@id([productId, cropId])
+}
+
+model Product {
+  id                   String        @id @default(cuid())
+  slug                 String        @unique
+  name_en              String
+  name_hi              String
+  brandId              String?
+  brand                Brand?        @relation(fields: [brandId], references: [id])
+  categoryId           String
+  category             Category      @relation(fields: [categoryId], references: [id])
+  subCategoryId        String?
+  subCategory          SubCategory?  @relation(fields: [subCategoryId], references: [id])
+  shortDescription_en  String        @default("")
+  shortDescription_hi  String        @default("")
+  description_en       String        @default("")
+  description_hi       String        @default("")
+  keyFeatures_en       String[]      @default([])
+  keyFeatures_hi       String[]      @default([])
+  technicalContent     String        @default("")
+  activeIngredients    String[]      @default([])
+  formulation          String        @default("")
+  targetPests          String[]      @default([])
+  dosage_en            String        @default("")
+  dosage_hi            String        @default("")
+  // Dosage calculator inputs (optional). Quantity of product per acre / per litre of water.
+  dosePerAcre          Decimal?      @db.Decimal(10, 3)
+  dosePerLitre         Decimal?      @db.Decimal(10, 3)
+  doseUnit             String?       // "ml" | "g" | "kg" | "L" | "packet"
+  howToUse_en          String        @default("")
+  howToUse_hi          String        @default("")
+  safety_en            String        @default("")
+  safety_hi            String        @default("")
+  compatibility        String        @default("")
+  manufacturerName     String        @default("")
+  manufacturerAddress  String        @default("")
+  countryOfOrigin      String        @default("India")
+  hsnCode              String?
+  gstRate              Decimal?      @db.Decimal(5, 2)
+  minShelfLifeMonths   Int?
+  batchNo              String?       // own-stock only, optional
+  expiryDate           DateTime?     // own-stock only, optional
+  licenceType          LicenceType   @default(NONE)
+  isOrganic            Boolean       @default(false)
+  surfaceOnly          Boolean       @default(false)
+  images               String[]      @default([])
+  imageStatus          ImageStatus   @default(NONE)
+  fulfilledBy          FulfilledBy   @default(SUPPLIER_DIRECT)
+  status               ProductStatus @default(DRAFT)
+  hiReviewed           Boolean       @default(false)
+  isFeatured           Boolean       @default(false)
+  isOrganicPick        Boolean       @default(false)
+  restrictedFlag       Boolean       @default(false)
+  restrictedReason     String?
+  marginFlag           Boolean       @default(false)
+  mrpVerified          Boolean       @default(true) // false when MRP could not be read from the source – blocks publishing
+  ratingAvg            Decimal?      @db.Decimal(3, 2)
+  ratingCount          Int           @default(0)
+  publishedAt          DateTime?
+  createdAt            DateTime      @default(now())
+  updatedAt            DateTime      @updatedAt
+
+  variants   ProductVariant[]
+  crops      ProductCrop[]
+  reviews    Review[]
+  questions  Question[]
+  wishlistedBy WishlistItem[]
+
+  @@index([status, categoryId])
+}
+
+model ProductVariant {
+  id           String   @id @default(cuid())
+  productId    String
+  product      Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  packSize     String   // e.g. "250"
+  unit         String   // ml, L, g, kg, pcs, packet
+  mrp          Decimal  @db.Decimal(10, 2)
+  costPrice    Decimal  @db.Decimal(10, 2) // PRIVATE
+  sellingPrice Decimal  @db.Decimal(10, 2) // computed: min(mrp, round(cost × (1 + markup)))
+  stock        Int      @default(0) // own-stock only
+  lowStockAt   Int      @default(5)
+  sku          String   @unique
+  weightGrams  Int      @default(500)
+  isActive     Boolean  @default(true)
+  sortOrder    Int      @default(0)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  supplierListings SupplierListing[]
+  priceHistory     PriceHistory[]
+  orderItems       OrderItem[]
+}
+
+model PriceHistory {
+  id           String         @id @default(cuid())
+  variantId    String
+  variant      ProductVariant @relation(fields: [variantId], references: [id], onDelete: Cascade)
+  mrp          Decimal        @db.Decimal(10, 2)
+  costPrice    Decimal        @db.Decimal(10, 2)
+  sellingPrice Decimal        @db.Decimal(10, 2)
+  reason       String
+  createdAt    DateTime       @default(now())
+}
+
+model RestrictedIngredient {
+  id        String   @id @default(cuid())
+  name      String   @unique // lower-case active ingredient
+  status    String   // BANNED | RESTRICTED | STATE_RESTRICTED
+  states    String[] @default([])
+  notification String @default("") // gazette / CIB&RC reference
+  createdAt DateTime @default(now())
+}
+
+model ImportItem {
+  id          String       @id @default(cuid())
+  sourceUrl   String       @unique
+  sourceSite  String
+  raw         Json
+  status      ImportStatus @default(PENDING)
+  productId   String?
+  flagged     Boolean      @default(false)
+  flagReason  String?
+  priceChange Json?
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+}
+
+// ───────────────────────── Suppliers (PRIVATE) ─────────────────────────
+
+model Supplier {
+  id          String       @id @default(cuid())
+  name        String       @unique
+  type        SupplierType
+  website     String?
+  contactName String?
+  phone       String?
+  email       String?
+  notes       String?
+  isActive    Boolean      @default(true)
+  createdAt   DateTime     @default(now())
+  listings    SupplierListing[]
+  procurements ProcurementItem[]
+}
+
+model SupplierListing {
+  id                 String         @id @default(cuid())
+  supplierId         String
+  supplier           Supplier       @relation(fields: [supplierId], references: [id], onDelete: Cascade)
+  variantId          String
+  variant            ProductVariant @relation(fields: [variantId], references: [id], onDelete: Cascade)
+  supplierProductUrl String?
+  supplierPrice      Decimal        @db.Decimal(10, 2)
+  lastCheckedAt      DateTime       @default(now())
+  inStockAtSupplier  Boolean        @default(true)
+  isPreferred        Boolean        @default(false)
+
+  @@unique([supplierId, variantId])
+}
+
+// ───────────────────────── Orders ─────────────────────────
+
+model Order {
+  id                 String        @id @default(cuid())
+  orderNumber        String        @unique // KD-2026-000001
+  userId             String
+  user               User          @relation(fields: [userId], references: [id])
+  status             OrderStatus   @default(PAYMENT_PENDING)
+  paymentMethod      PaymentMethod @default(RAZORPAY)
+  paymentStatus      PaymentStatus @default(PENDING)
+  locale             Locale        @default(en)
+  shippingAddress    Json
+  subtotal           Decimal       @db.Decimal(10, 2)
+  shippingFee        Decimal       @db.Decimal(10, 2)
+  handlingFee        Decimal       @db.Decimal(10, 2)
+  codFee             Decimal       @default(0) @db.Decimal(10, 2)
+  discount           Decimal       @default(0) @db.Decimal(10, 2)
+  total              Decimal       @db.Decimal(10, 2)
+  taxBreakup         Json          // [{ rate, taxable, tax }]
+  couponCode         String?
+  razorpayOrderId    String?       @unique
+  razorpayPaymentId  String?
+  paymentExpiresAt   DateTime?
+  paidAt             DateTime?
+  invoiceNumber      String?       @unique
+  invoicedAt         DateTime?
+  deliveredAt        DateTime?
+  reviewRequestSentAt DateTime?
+  refundedAmount     Decimal       @default(0) @db.Decimal(10, 2)
+  cancelReason       String?
+  notes              String?
+  createdAt          DateTime      @default(now())
+  updatedAt          DateTime      @updatedAt
+
+  items     OrderItem[]
+  events    OrderEvent[]
+  shipments Shipment[]
+  refunds   Refund[]
+  returns   ReturnRequest[]
+
+  @@index([userId, createdAt])
+  @@index([status])
+}
+
+model OrderItem {
+  id            String         @id @default(cuid())
+  orderId       String
+  order         Order          @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  variantId     String
+  variant       ProductVariant @relation(fields: [variantId], references: [id])
+  productId     String
+  productSlug   String
+  name_en       String
+  name_hi       String
+  packLabel     String
+  hsnCode       String
+  gstRate       Decimal        @db.Decimal(5, 2)
+  mrp           Decimal        @db.Decimal(10, 2)
+  unitPrice     Decimal        @db.Decimal(10, 2)
+  quantity      Int
+  lineTotal     Decimal        @db.Decimal(10, 2)
+  costPrice     Decimal        @db.Decimal(10, 2) // PRIVATE snapshot
+  fulfilledBy   FulfilledBy
+  etaMinDays    Int
+  etaMaxDays    Int
+  shipmentId    String?
+  shipment      Shipment?      @relation(fields: [shipmentId], references: [id])
+
+  procurement   ProcurementItem?
+}
+
+model ProcurementItem {
+  id               String            @id @default(cuid())
+  orderItemId      String            @unique
+  orderItem        OrderItem         @relation(fields: [orderItemId], references: [id], onDelete: Cascade)
+  supplierId       String?
+  supplier         Supplier?         @relation(fields: [supplierId], references: [id])
+  supplierOrderId  String?
+  amountPaid       Decimal?          @db.Decimal(10, 2)
+  supplierTracking String?
+  status           ProcurementStatus @default(TO_ORDER)
+  updatedAt        DateTime          @updatedAt
+}
+
+model Shipment {
+  id              String         @id @default(cuid())
+  orderId         String
+  order           Order          @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  route           FulfilledBy
+  courierName     String?
+  awb             String?
+  trackingUrl     String?
+  labelUrl        String?
+  shiprocketOrderId    String?
+  shiprocketShipmentId String?
+  status          ShipmentStatus @default(PENDING)
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  items           OrderItem[]
+  events          ShipmentEvent[]
+}
+
+model ShipmentEvent {
+  id         String   @id @default(cuid())
+  shipmentId String
+  shipment   Shipment @relation(fields: [shipmentId], references: [id], onDelete: Cascade)
+  status     String
+  location   String?
+  note       String?
+  occurredAt DateTime @default(now())
+}
+
+model OrderEvent {
+  id        String      @id @default(cuid())
+  orderId   String
+  order     Order       @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  status    OrderStatus
+  note      String?
+  createdAt DateTime    @default(now())
+}
+
+model PaymentEvent {
+  id        String   @id // Razorpay event id – idempotency key
+  type      String
+  payload   Json
+  createdAt DateTime @default(now())
+}
+
+model Refund {
+  id               String   @id @default(cuid())
+  orderId          String
+  order            Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  amount           Decimal  @db.Decimal(10, 2)
+  razorpayRefundId String?  @unique
+  status           String   @default("pending")
+  reason           String?
+  createdById      String?
+  createdAt        DateTime @default(now())
+}
+
+model ReturnRequest {
+  id         String       @id @default(cuid())
+  orderId    String
+  order      Order        @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  userId     String
+  user       User         @relation(fields: [userId], references: [id])
+  type       ReturnType
+  reason     String
+  details    String
+  media      String[]     @default([])
+  itemIds    String[]     @default([])
+  status     ReturnStatus @default(REQUESTED)
+  adminNote  String?
+  createdAt  DateTime     @default(now())
+  updatedAt  DateTime     @updatedAt
+}
+
+model Counter {
+  key   String @id // "order-2026", "invoice-2026-27"
+  value Int    @default(0)
+}
+
+// ───────────────────────── Customer engagement ─────────────────────────
+
+model WishlistItem {
+  userId    String
+  productId String
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@id([userId, productId])
+}
+
+model Review {
+  id         String       @id @default(cuid())
+  productId  String
+  product    Product      @relation(fields: [productId], references: [id], onDelete: Cascade)
+  userId     String
+  user       User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  orderId    String
+  rating     Int
+  title      String?
+  body       String
+  photos     String[]     @default([])
+  status     ReviewStatus @default(PENDING)
+  adminReply String?
+  createdAt  DateTime     @default(now())
+
+  @@unique([productId, userId])
+}
+
+model Question {
+  id         String   @id @default(cuid())
+  productId  String
+  product    Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  body       String
+  answer     String?
+  answeredAt DateTime?
+  isPublished Boolean @default(false)
+  createdAt  DateTime @default(now())
+}
+
+model Ticket {
+  id        String       @id @default(cuid())
+  userId    String
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  subject   String
+  orderNumber String?
+  status    TicketStatus @default(OPEN)
+  createdAt DateTime     @default(now())
+  updatedAt DateTime     @updatedAt
+  messages  TicketMessage[]
+}
+
+model TicketMessage {
+  id        String   @id @default(cuid())
+  ticketId  String
+  ticket    Ticket   @relation(fields: [ticketId], references: [id], onDelete: Cascade)
+  fromStaff Boolean  @default(false)
+  body      String
+  createdAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  phone     String?
+  subject   String
+  message   String
+  kind      String   @default("CONTACT") // CONTACT | BULK
+  meta      Json?
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model NewsletterSubscriber {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  locale    Locale   @default(en)
+  createdAt DateTime @default(now())
+}
+
+model Coupon {
+  id               String     @id @default(cuid())
+  code             String     @unique
+  type             CouponType
+  value            Decimal    @db.Decimal(10, 2)
+  maxDiscount      Decimal?   @db.Decimal(10, 2)
+  minOrder         Decimal    @default(0) @db.Decimal(10, 2)
+  expiresAt        DateTime?
+  usageLimit       Int?
+  perCustomerLimit Int        @default(1)
+  usedCount        Int        @default(0)
+  isActive         Boolean    @default(true)
+  createdAt        DateTime   @default(now())
+}
+
+// ───────────────────────── Content (CMS) ─────────────────────────
+
+model Page {
+  id          String   @id @default(cuid())
+  slug        String   @unique // privacy-policy, terms-of-use, ...
+  title_en    String
+  title_hi    String
+  summary_en  String   @default("")
+  summary_hi  String   @default("")
+  body_en     String   // sanitized HTML
+  body_hi     String
+  hiReviewed  Boolean  @default(false)
+  legalReviewed Boolean @default(false)
+  isPolicy    Boolean  @default(true)
+  sortOrder   Int      @default(0)
+  updatedAt   DateTime @updatedAt
+}
+
+model Faq {
+  id          String  @id @default(cuid())
+  group       String  // ordering | delivery | payment | replacement | product | genuine
+  question_en String
+  question_hi String
+  answer_en   String
+  answer_hi   String
+  sortOrder   Int     @default(0)
+  hiReviewed  Boolean @default(false)
+  isActive    Boolean @default(true)
+}
+
+model Article {
+  id           String    @id @default(cuid())
+  slug         String    @unique
+  title_en     String
+  title_hi     String
+  excerpt_en   String
+  excerpt_hi   String
+  body_en      String    // sanitized HTML
+  body_hi      String
+  illustration String    @default("sprout")
+  categorySlugs String[] @default([])
+  author       String    @default("KissanDukkan Agri Team")
+  isPublished  Boolean   @default(false)
+  publishedAt  DateTime?
+  hiReviewed   Boolean   @default(false)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+model Banner {
+  id           String   @id @default(cuid())
+  title_en     String
+  title_hi     String
+  subtitle_en  String
+  subtitle_hi  String
+  ctaLabel_en  String
+  ctaLabel_hi  String
+  ctaHref      String   // locale-less path, e.g. /category/seeds
+  illustration String   @default("field")
+  imageUrl     String?
+  theme        String   @default("green") // green | gold | soil
+  sortOrder    Int      @default(0)
+  isActive     Boolean  @default(true)
+}
+
+model EmailTemplate {
+  id         String @id @default(cuid())
+  key        String // order_confirmation | shipped | delivered | review_request | password_reset | contact_notification
+  locale     Locale
+  subject    String
+  body       String // HTML with {{placeholders}}
+  updatedAt  DateTime @updatedAt
+
+  @@unique([key, locale])
+}
+
+// ───────────────────────── Settings ─────────────────────────
+
+model Setting {
+  key       String   @id // business | pricing | delivery | launch
+  value     Json
+  updatedAt DateTime @updatedAt
+}
+
+model TaxRule {
+  id           String   @id @default(cuid())
+  categorySlug String   @unique
+  label        String
+  hsnCode      String
+  gstRate      Decimal  @db.Decimal(5, 2)
+  verified     Boolean  @default(false)
+  note         String   @default("Verify with your CA before launch")
+  updatedAt    DateTime @updatedAt
+}
+
+model ServiceableRegion {
+  id        String   @id @default(cuid())
+  state     String?  // whole state serviceable
+  pincodePrefix String? // e.g. "411" or full "411001"
+  isActive  Boolean  @default(true)
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id])
+  action    String
+  entity    String
+  entityId  String?
+  meta      Json?
+  createdAt DateTime @default(now())
+}

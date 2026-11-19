@@ -1,0 +1,14 @@
+
+== kisanshop
+  200 product URLs found (processing up to 200)
+  25/200 pages, 15 usable records
+  50/200 pages, 34 usable records
+  75/200 pages, 58 usable records
+  100/200 pages, 77 usable records
+  125/200 pages, 93 usable records
+  150/200 pages, 118 usable records
+  175/200 pages, 142 usable records
+  200/200 pages, 155 usable records
+
+Done. 109 products (155 source listings) written to scripts/output/.
+Next: npm run import   (queues facts, creates DRAFT products with original copy)

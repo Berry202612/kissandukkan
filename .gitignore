@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env*.local
+scripts/output/cache
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.dev-test-accounts.local

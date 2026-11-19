@@ -1,0 +1,7438 @@
+[
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-fluro-gold-granules",
+    "name": "Anand Agro Dr. Bacto's Fluro Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1632,
+        "mrp": 2040,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 3223,
+        "mrp": 4080,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-dermus-gold-granules",
+    "name": "Anand Agro Dr. Bacto's Dermus Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Trichoderma viride",
+    "activeIngredients": [
+      "trichoderma viride"
+    ],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1700,
+        "mrp": 2125,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 3357,
+        "mrp": 4250,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Root Rot",
+      "Collar Rot",
+      "Dry Rot",
+      "Wilt"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-meta-gold-granules",
+    "name": "Anand Agro Dr. Bacto's Meta Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 2000,
+        "mrp": 2500,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 3950,
+        "mrp": 5000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "White Grubs",
+      "Stem Borers",
+      "Termites"
+    ],
+    "dosage": "The official product page does not specify a verified per-acre application rate. Follow the dosage printed on the original product label.",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-pancham-gold-granules-bag",
+    "name": "Anand Agro Dr. Bacto's Pancham Gold (Granules Bag)",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 328,
+        "mrp": 410,
+        "inStock": true
+      },
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 624,
+        "mrp": 780,
+        "inStock": true
+      },
+      {
+        "size": "10",
+        "unit": "kg",
+        "price": 1168,
+        "mrp": 1460,
+        "inStock": true
+      },
+      {
+        "size": "25",
+        "unit": "kg",
+        "price": 2720,
+        "mrp": 3400,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Vegetables"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-npk-gold-granules",
+    "name": "Anand Agro Dr. Bacto's NPK Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1348,
+        "mrp": 1685,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 2662,
+        "mrp": 3370,
+        "inStock": true
+      },
+      {
+        "size": "4 × 4",
+        "unit": "kg",
+        "price": 5257,
+        "mrp": 6740,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-k-gold-granules",
+    "name": "Anand Agro Dr. Bacto's K-Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1288,
+        "mrp": 1610,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 2543,
+        "mrp": 3220,
+        "inStock": true
+      },
+      {
+        "size": "4 × 4",
+        "unit": "kg",
+        "price": 5023,
+        "mrp": 6440,
+        "inStock": true
+      },
+      {
+        "size": "4 × 8",
+        "unit": "kg",
+        "price": 9917,
+        "mrp": 12880,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-p-gold-granules",
+    "name": "Anand Agro Dr. Bacto's P-Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1208,
+        "mrp": 1510,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 2385,
+        "mrp": 3020,
+        "inStock": true
+      },
+      {
+        "size": "4 × 4",
+        "unit": "kg",
+        "price": 4711,
+        "mrp": 6040,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-n-gold-granules",
+    "name": "Anand Agro Dr. Bacto's N-Gold Granules",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1136,
+        "mrp": 1420,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 2243,
+        "mrp": 2840,
+        "inStock": true
+      },
+      {
+        "size": "4 × 4",
+        "unit": "kg",
+        "price": 4430,
+        "mrp": 5680,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-vbm",
+    "name": "Anand Agro Dr. Bacto's 5G VBM Bio Insecticide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 1108,
+        "mrp": 1385,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Whiteflies",
+      "Mealybugs",
+      "Thrips",
+      "Root Grubs",
+      "Pinhole Borers",
+      "Helicoverpa",
+      "Spodoptera Larvae"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-meta",
+    "name": "Anand Agro Dr. Bacto's 5G Meta Bio Insecticide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Metarhizium anisopliae",
+    "activeIngredients": [
+      "metarhizium anisopliae"
+    ],
+    "formulation": "5G Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 1032,
+        "mrp": 1290,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Root Grubs",
+      "Stem Borers"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-brave",
+    "name": "Anand Agro Dr. Bacto's 5G Brave Bio Insecticide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Beauveria bassiana",
+    "activeIngredients": [
+      "beauveria bassiana"
+    ],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 1032,
+        "mrp": 1290,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Mealybugs",
+      "Whiteflies",
+      "Thrips",
+      "Root Grubs",
+      "Stem Borers"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-vertigo",
+    "name": "Anand Agro Dr. Bacto's 5G Vertigo Bio Insecticide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Verticillium lecanii",
+    "activeIngredients": [
+      "verticillium lecanii"
+    ],
+    "formulation": "5G Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 1032,
+        "mrp": 1290,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Whiteflies",
+      "Aphids",
+      "Thrips",
+      "Mealybugs",
+      "Scale Insects"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-fast-d",
+    "name": "Anand Agro Dr. Bacto's 5G Fast-D Organic Waste Decomposer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 912,
+        "mrp": 1140,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-biozinc",
+    "name": "Anand Agro Dr. Bacto's 5G BioZinc Zinc Solubilizing Biofertilizer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Bacillus aryabhattai",
+    "activeIngredients": [
+      "bacillus aryabhattai"
+    ],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 908,
+        "mrp": 1135,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-combo",
+    "name": "Anand Agro Dr. Bacto's 5G Combo NPK Biofertilizer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 916,
+        "mrp": 1145,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-kmb",
+    "name": "Anand Agro Dr. Bacto's 5G K.M.B. Potassium Mobilizing Biofertilizer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "Potassium Mobilizing Bacteria (KMB / KSB)",
+    "activeIngredients": [
+      "potassium mobilizing bacteria (kmb / ksb)"
+    ],
+    "formulation": "5G Dextrose-Based Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 920,
+        "mrp": 1150,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-psb",
+    "name": "Anand Agro Dr. Bacto's 5G P.S.B. Phosphate Solubilizing Bio Fertilizer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 912,
+        "mrp": 1140,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-5g-azo",
+    "name": "Anand Agro Dr. Bacto's 5G Azo Azotobacter Nitrogen Fixing Bio Fertilizer",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "5G Dextrose-Based Probiotic Bio Capsules",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "g",
+        "price": 916,
+        "mrp": 1145,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-bacto-dip",
+    "name": "Anand Agro Dr. Bacto's Bacto Dip Microbial Consortium for Grapes",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 2788,
+        "mrp": 3485,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Grapes"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-ampelo-4k-bio-fungicide",
+    "name": "Anand Agro Dr. Bacto's Ampelo 4K Ampelomyces Quisqualis Bio Fungicide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Ampelomyces quisqualis",
+    "activeIngredients": [
+      "ampelomyces quisqualis"
+    ],
+    "formulation": "4K Microbial Formulation",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 820,
+        "mrp": 1025,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1392,
+        "mrp": 1740,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2728,
+        "mrp": 3410,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-baci-throw-4k-bio-insecticide",
+    "name": "Anand Agro Dr. Bacto's Baci Throw 4K Bacillus Thuringiensis Kurstaki Bio Insecticide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Bacillus thuringiensis var. kurstaki",
+    "activeIngredients": [
+      "bacillus thuringiensis var. kurstaki"
+    ],
+    "formulation": "4K Dextrose-Based Microbial Formulation",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "g",
+        "price": 312,
+        "mrp": 390,
+        "inStock": true
+      },
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 808,
+        "mrp": 1010,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-nemos-4k-bio-nematicide",
+    "name": "Anand Agro Dr. Bacto's Nemos 4K Verticillium Chlamydosporium Bio Nematicide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Verticillium chlamydosporium",
+    "activeIngredients": [
+      "verticillium chlamydosporium"
+    ],
+    "formulation": "4K Dextrose-Based Microbial Formulation",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 912,
+        "mrp": 1140,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1548,
+        "mrp": 1935,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 3048,
+        "mrp": 3810,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "kg",
+        "price": 6019,
+        "mrp": 7620,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-fluro-4k-bio-fungicide",
+    "name": "Anand Agro Dr. Bacto's Fluro 4K Pseudomonas Fluorescens Bio Fungicide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "4K Dextrose-Based Microbial Formulation",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 760,
+        "mrp": 950,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1344,
+        "mrp": 1680,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2600,
+        "mrp": 3250,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural",
+      "vegetable",
+      "fruit"
+    ],
+    "pests": [
+      "Root Rot",
+      "Wilt",
+      "Leaf Blight",
+      "Downy Mildew",
+      "Powdery Mildew"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-dr-bactos-bactus-4k-bio-fungicide",
+    "name": "Anand Agro Dr. Bacto's Bactus 4K Bacillus Subtilis Bio Fungicide",
+    "brand": "Anand Agro Care",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "4K Dextrose-Based Microbial Formulation",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 872,
+        "mrp": 1090,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1528,
+        "mrp": 1910,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2944,
+        "mrp": 3680,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Use on agricultural"
+    ],
+    "pests": [
+      "Downy Mildew",
+      "Powdery Mildew"
+    ],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-mn-12",
+    "name": "Anand Agro Insta Procheal (Mn) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Amino Chelated Manganese (Mn) 12%",
+    "activeIngredients": [
+      "amino chelated manganese (mn)"
+    ],
+    "formulation": "Amino Chelated",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 232,
+        "mrp": 290,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 508,
+        "mrp": 635,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 824,
+        "mrp": 1030,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1608,
+        "mrp": 2010,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-cu-12",
+    "name": "Anand Agro Insta Procheal (Cu) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Amino Chelated Copper (Cu) 12%",
+    "activeIngredients": [
+      "amino chelated copper (cu)"
+    ],
+    "formulation": "Amino Chelated",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 296,
+        "mrp": 370,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 616,
+        "mrp": 770,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1024,
+        "mrp": 1280,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1968,
+        "mrp": 2460,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-mg-6",
+    "name": "Anand Agro Insta Procheal (Mg) 6%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Amino-Chelated Magnesium – label confirmation required",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 224,
+        "mrp": 280,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 488,
+        "mrp": 610,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 784,
+        "mrp": 980,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1528,
+        "mrp": 1910,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Verify from original product label",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-ca-10",
+    "name": "Anand Agro Insta Procheal (Ca) 10%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Amino-Chelated",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 224,
+        "mrp": 280,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 488,
+        "mrp": 610,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 780,
+        "mrp": 975,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1528,
+        "mrp": 1910,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-fe-12",
+    "name": "Anand Agro Insta Procheal (Fe) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 236,
+        "mrp": 295,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 516,
+        "mrp": 645,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 828,
+        "mrp": 1035,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1616,
+        "mrp": 2020,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-procheal-zn-12",
+    "name": "Anand Agro Insta Procheal (Zn) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 236,
+        "mrp": 295,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 516,
+        "mrp": 645,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 828,
+        "mrp": 1035,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1616,
+        "mrp": 2020,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-eddha-fe-6",
+    "name": "Anand Agro Insta Eddha (Fe) 6%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 728,
+        "mrp": 910,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1244,
+        "mrp": 1555,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2328,
+        "mrp": 2910,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-oxy-zinc-39-5-sc",
+    "name": "Anand Agro Insta Oxy Zinc 39.5% SC (Zinc Oxide Suspension Concentrate)",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Suspension Concentrate (SC)",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 368,
+        "mrp": 460,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 864,
+        "mrp": 1080,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 1472,
+        "mrp": 1840,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 2928,
+        "mrp": 3660,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 11280,
+        "mrp": 14100,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-cal-liquid-calcium-11-percent",
+    "name": "Anand Agro Insta Cal (Concentrate Liquid Calcium 11%)",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Concentrated Liquid",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 204,
+        "mrp": 255,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 456,
+        "mrp": 570,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 756,
+        "mrp": 945,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1440,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 5704,
+        "mrp": 7130,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-borolamine-l-10-boron-ethanolamine",
+    "name": "Anand Agro Insta Borolamine – L 10% (Boron Ethanolamine)",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 320,
+        "mrp": 400,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 640,
+        "mrp": 800,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 992,
+        "mrp": 1240,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1928,
+        "mrp": 2410,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 7360,
+        "mrp": 9200,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-zb-zinc-boron-liquid-micronutrient",
+    "name": "Anand Agro Insta ZB (Zinc & Boron Formulation)",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 128,
+        "mrp": 160,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 288,
+        "mrp": 360,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 464,
+        "mrp": 580,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 896,
+        "mrp": 1120,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 3320,
+        "mrp": 4150,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-insta-zb-powder-ms-grade-no-9",
+    "name": "Anand Agro Insta ZB (Powder) M.S. Grade No. 9",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Powder",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 240,
+        "mrp": 300,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 584,
+        "mrp": 730,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 984,
+        "mrp": 1230,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1888,
+        "mrp": 2360,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-mangnese-mn-10",
+    "name": "Anand Agro Instacheal Mangnese (Mn) 10%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 244,
+        "mrp": 305,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 520,
+        "mrp": 650,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 852,
+        "mrp": 1065,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1696,
+        "mrp": 2120,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-copper-cu-12-edta-chelated",
+    "name": "Anand Agro Instacheal Copper (Cu) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 308,
+        "mrp": 385,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 728,
+        "mrp": 910,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 1276,
+        "mrp": 1595,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2384,
+        "mrp": 2980,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-magnesium-mg-5-edta-chelated",
+    "name": "Anand Agro Instacheal Magnesium (Mg) 5%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 244,
+        "mrp": 305,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 520,
+        "mrp": 650,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 860,
+        "mrp": 1075,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1696,
+        "mrp": 2120,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-calcium-ca-9-chelated",
+    "name": "Anand Agro Instacheal Calcium (Ca) 9%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 248,
+        "mrp": 310,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 520,
+        "mrp": 650,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 852,
+        "mrp": 1065,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1696,
+        "mrp": 2120,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-ferrous-fe-12-chelated-iron",
+    "name": "Anand Agro Instacheal Ferrous (Fe) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 256,
+        "mrp": 320,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 544,
+        "mrp": 680,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 908,
+        "mrp": 1135,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1792,
+        "mrp": 2240,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instacheal-zinc-12-edta-chelated",
+    "name": "Anand Agro Instacheal Zinc (Zn) 12%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Water-soluble chelated micronutrient",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 248,
+        "mrp": 310,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 536,
+        "mrp": 670,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 888,
+        "mrp": 1110,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1760,
+        "mrp": 2200,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sanjivani-agrotech-micro-chill-combi-micronutrient-mixture-fertilizer",
+    "name": "Sanjivani Agrotech Micro Chill Combi Micronutrient Mixture Fertilizer",
+    "brand": "Sanjivani Agrotech",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Micronutrient Mixture; Exact Nutrient Percentages Require Back-Label Verification",
+    "activeIngredients": [
+      "micronutrient mixture; exact nutrient percentages require back-label verification"
+    ],
+    "formulation": "Not Confirmed from Front Packaging",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 579,
+        "mrp": 585,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 1146,
+        "mrp": 1170,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 2836,
+        "mrp": 2925,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 5614,
+        "mrp": 5850,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sanjivani-agrotech-micro-chill-zinc-edta-12",
+    "name": "Sanjivani Agrotech Micro Chill Zinc EDTA 12% Fertilizer",
+    "brand": "Sanjivani Agrotech",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 499,
+        "mrp": 545,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 987,
+        "mrp": 1090,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 2440,
+        "mrp": 2725,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 4826,
+        "mrp": 5450,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sanjivani-agrotech-micro-chill-calcium-edta-10-fertilizer",
+    "name": "Sanjivani Agrotech Micro Chill Calcium EDTA 10% Fertilizer",
+    "brand": "Sanjivani Agrotech",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 569,
+        "mrp": 571,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 1126,
+        "mrp": 1142,
+        "inStock": true
+      },
+      {
+        "size": "500 × 3",
+        "unit": "g",
+        "price": 1672,
+        "mrp": 1713,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 2759,
+        "mrp": 2855,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 5518,
+        "mrp": 5710,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sanjivani-agrotech-micro-chill-magnesium-edta-6-fertilizer",
+    "name": "Sanjivani Agrotech Micro Chill Magnesium EDTA 6% Fertilizer",
+    "brand": "Sanjivani Agrotech",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 544,
+        "mrp": 547,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 1077,
+        "mrp": 1094,
+        "inStock": true
+      },
+      {
+        "size": "500 × 4",
+        "unit": "g",
+        "price": 2132,
+        "mrp": 2188,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 2637,
+        "mrp": 2735,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 5275,
+        "mrp": 5470,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agro-seeds-f1-shehenshah-hybrid-watermelon",
+    "name": "Agro Seeds Hybrid Watermelon F1 Shehenshah",
+    "brand": "Agro Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 1371,
+        "mrp": 2700,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 2688,
+        "mrp": 5400,
+        "inStock": true
+      },
+      {
+        "size": "50 × 8",
+        "unit": "g",
+        "price": 5268,
+        "mrp": 10800,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 6585,
+        "mrp": 13500,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Watermelon (Tarbooj)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agro-seeds-f1-chetan-hybrid-watermelon",
+    "name": "Agro Seeds Hybrid Watermelon F1 Chetan",
+    "brand": "Agro Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 2638,
+        "mrp": 6000,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 5156,
+        "mrp": 12000,
+        "inStock": true
+      },
+      {
+        "size": "50 × 8",
+        "unit": "g",
+        "price": 10072,
+        "mrp": 24000,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 12589,
+        "mrp": 30000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Watermelon (Tarbooj)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agro-seeds-f1-sweety-hybrid-watermelon",
+    "name": "Agro Seeds Hybrid Watermelon F1 Sweety",
+    "brand": "Agro Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 980,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 1924,
+        "mrp": 3600,
+        "inStock": true
+      },
+      {
+        "size": "50 × 8",
+        "unit": "g",
+        "price": 3776,
+        "mrp": 7200,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 4720,
+        "mrp": 9000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Watermelon (Tarbooj)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agro-seeds-f1-suwarna-hybrid-muskmelon",
+    "name": "Agro Seeds Hybrid Muskmelon F1 Suwarna",
+    "brand": "Agro Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 1888,
+        "mrp": 4200,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 3692,
+        "mrp": 8400,
+        "inStock": true
+      },
+      {
+        "size": "50 × 8",
+        "unit": "g",
+        "price": 7216,
+        "mrp": 16800,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 9020,
+        "mrp": 21000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Muskmelon (Kharbuja)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agro-seeds-f1-cazri-999-hybrid-muskmelon",
+    "name": "Agro Seeds Hybrid Muskmelon F1 Cazri-999",
+    "brand": "Agro Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 1888,
+        "mrp": 4200,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 3692,
+        "mrp": 8400,
+        "inStock": true
+      },
+      {
+        "size": "50 × 8",
+        "unit": "g",
+        "price": 7216,
+        "mrp": 16800,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 9020,
+        "mrp": 21000,
+        "inStock": false
+      }
+    ],
+    "crops": [
+      "Muskmelon (Kharbuja)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instafert-combi-ms-grade-2-edta-chelated",
+    "name": "Anand Agro InstaFert (Combi) M.S. Grade No. 2 EDTA Chelated",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "EDTA Chelated Micronutrient Mixture",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 232,
+        "mrp": 290,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 536,
+        "mrp": 670,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 876,
+        "mrp": 1095,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1736,
+        "mrp": 2170,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-instafert-ms1-soil-application-micronutrient-fertilizer",
+    "name": "Anand Agro InstaFert (Soil Application) M.S.1",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Iron, Manganese, Zinc, Copper and Boron",
+    "activeIngredients": [
+      "iron",
+      "manganese",
+      "zinc",
+      "copper",
+      "boron"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 544,
+        "mrp": 680,
+        "inStock": true
+      },
+      {
+        "size": "10",
+        "unit": "kg",
+        "price": 1136,
+        "mrp": 1420,
+        "inStock": true
+      },
+      {
+        "size": "25",
+        "unit": "kg",
+        "price": 2472,
+        "mrp": 3090,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shanmukha-vam-gold-d-endomycorrhizal-biofertilizer",
+    "name": "Shanmukha VAM Gold D Endo-Mycorrhizal Biofertilizer",
+    "brand": "Shanmukha Agritech Limited",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Water-Soluble",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 799,
+        "mrp": 924,
+        "inStock": true
+      },
+      {
+        "size": "250 × 2",
+        "unit": "g",
+        "price": 1579,
+        "mrp": 1848,
+        "inStock": true
+      },
+      {
+        "size": "250 × 5",
+        "unit": "g",
+        "price": 3902,
+        "mrp": 4620,
+        "inStock": true
+      },
+      {
+        "size": "250 × 10",
+        "unit": "g",
+        "price": 7712,
+        "mrp": 9240,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Subject to Biological Compatibility"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Shanmukha Agritec Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/krishi-rasayan-v3-fungicide",
+    "name": "Krishi Rasayan V3 Fungicide (Validamycin 3% L)",
+    "brand": "Krishi Rasayan",
+    "category": "crop-protection",
+    "subCategory": "fungicides",
+    "technicalContent": "Validamycin 3% L",
+    "activeIngredients": [
+      "validamycin"
+    ],
+    "formulation": "L – Liquid Formulation",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 269,
+        "mrp": 280,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 529,
+        "mrp": 539,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1047,
+        "mrp": 1078,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 2591,
+        "mrp": 2695,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 5128,
+        "mrp": 5390,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Rice",
+      "Paddy"
+    ],
+    "pests": [
+      "Sheath Blight"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/krishi-rasayan-spiromit-insecticide",
+    "name": "Krishi Rasayan Spiromit Insecticide (Spiromesifen 22.9% SC)",
+    "brand": "Krishi Rasayan",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Spiromesifen 22.9% SC",
+    "activeIngredients": [
+      "spiromesifen"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "200",
+        "unit": "ml",
+        "price": 899,
+        "mrp": 1200,
+        "inStock": true
+      },
+      {
+        "size": "200 × 2",
+        "unit": "ml",
+        "price": 1797,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "200 × 5",
+        "unit": "ml",
+        "price": 4493,
+        "mrp": 6000,
+        "inStock": true
+      },
+      {
+        "size": "200 × 10",
+        "unit": "ml",
+        "price": 8989,
+        "mrp": 12000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Mites",
+      "Whiteflies"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/damman-daman-plus-amino-acid-biostimulant",
+    "name": "Damman DAMAN+ (Amino Acid Based Biostimulant)",
+    "brand": "Daman",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 765,
+        "mrp": 980,
+        "inStock": true
+      },
+      {
+        "size": "100 × 2",
+        "unit": "ml",
+        "price": 1530,
+        "mrp": 1960,
+        "inStock": true
+      },
+      {
+        "size": "100 × 4",
+        "unit": "ml",
+        "price": 3060,
+        "mrp": 3920,
+        "inStock": true
+      },
+      {
+        "size": "100 × 8",
+        "unit": "ml",
+        "price": 6120,
+        "mrp": 7840,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/kalash-shivay-f1-hybrid-tomato-seeds",
+    "name": "Kalash Shivay F1 Hybrid Tomato Seeds",
+    "brand": "Kalash Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 1215,
+        "mrp": 1496,
+        "inStock": true
+      },
+      {
+        "size": "10 × 2",
+        "unit": "g",
+        "price": 2400,
+        "mrp": 2992,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Tomato"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-agritech-mark-23-plant-growth-regulator",
+    "name": "Oakland Agritech Mark 23 Plant Growth Regulator",
+    "brand": "Oakland Agritech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Suspension Concentrate (SC), as labelled",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 359,
+        "mrp": 1200,
+        "inStock": true
+      },
+      {
+        "size": "100 × 4",
+        "unit": "ml",
+        "price": 1388,
+        "mrp": 4800,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "ml",
+        "price": 1735,
+        "mrp": 6000,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "ml",
+        "price": 3350,
+        "mrp": 12000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-agritech-poshak-gibberellic-acid",
+    "name": "Oakland Agritech Poshak (Gibberellic Acid 0.45% SL)",
+    "brand": "Oakland Agritech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Gibberellic Acid 0.45% SL",
+    "activeIngredients": [
+      "gibberellic acid"
+    ],
+    "formulation": "SL",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 598,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1159,
+        "mrp": 3600,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 2247,
+        "mrp": 7200,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 4351,
+        "mrp": 14400,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-agritech-orayan-triacontanol",
+    "name": "Oakland Agritech Orayan (Triacontanol EW 0.05% Plant Growth Promoter)",
+    "brand": "Oakland Agritech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Triacontanol EW 0.05% Min. (Supplier-Listed)",
+    "activeIngredients": [
+      "triacontanol"
+    ],
+    "formulation": "EW",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 485,
+        "mrp": 1200,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 946,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 1844,
+        "mrp": 4800,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 3592,
+        "mrp": 9600,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/indofil-hokori-dinotefuran-ethion-insecticide",
+    "name": "Indofil Hokori (Dinotefuran 5% + Ethion 50% EC)",
+    "brand": "Indofil Industries Limited",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Dinotefuran 5% + Ethion 50% EC",
+    "activeIngredients": [
+      "dinotefuran",
+      "ethion"
+    ],
+    "formulation": "EC",
+    "packs": [
+      {
+        "size": "400",
+        "unit": "ml",
+        "price": 849,
+        "mrp": 1252,
+        "inStock": true
+      },
+      {
+        "size": "400 × 2",
+        "unit": "ml",
+        "price": 1672,
+        "mrp": 2504,
+        "inStock": true
+      },
+      {
+        "size": "400 × 4",
+        "unit": "ml",
+        "price": 3295,
+        "mrp": 5008,
+        "inStock": true
+      },
+      {
+        "size": "400 × 8",
+        "unit": "ml",
+        "price": 6491,
+        "mrp": 10016,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Paddy (Rice)"
+    ],
+    "pests": [
+      "Brown Plant Hopper",
+      "White Backed Plant Hopper",
+      "Green Leaf Hopper",
+      "Leaf Folder"
+    ],
+    "dosage": "",
+    "manufacturer": "PI Industries Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/vnr-ratima-hybrid-sponge-gourd-seeds",
+    "name": "VNR Ratima Hybrid Sponge Gourd",
+    "brand": "VNR Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 135,
+        "mrp": 399,
+        "inStock": true
+      },
+      {
+        "size": "10 × 2",
+        "unit": "g",
+        "price": 262,
+        "mrp": 798,
+        "inStock": true
+      },
+      {
+        "size": "10 × 4",
+        "unit": "g",
+        "price": 539,
+        "mrp": 1596,
+        "inStock": true
+      },
+      {
+        "size": "10 × 8",
+        "unit": "g",
+        "price": 984,
+        "mrp": 3192,
+        "inStock": true
+      },
+      {
+        "size": "10 × 10",
+        "unit": "g",
+        "price": 1230,
+        "mrp": 3990,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Sponge Gourd (Smooth Luffa)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "VNR Seeds Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shuddha-gulabi-onion-seeds",
+    "name": "Shuddha Gulabi Onion Seeds",
+    "brand": "Rahee Natural Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 2550,
+        "mrp": 2600,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "kg",
+        "price": 5044,
+        "mrp": 5200,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 12540,
+        "mrp": 13000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Onion (Pyaz)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-agritech-fulvic-plus",
+    "name": "Oakland Agritech FULVIC Plus",
+    "brand": "Oakland Agritech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Fulvic Acid Liquid",
+    "activeIngredients": [
+      "fulvic acid liquid"
+    ],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 499,
+        "mrp": 1200,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 974,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 1900,
+        "mrp": 4800,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 3704,
+        "mrp": 9600,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Oakland Agritech"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-chatur-mancozeb-azoxystrobin-fungicide",
+    "name": "Katyayani Chatur | Mancozeb 40% + Azoxystrobin 7% OS | Fungicide",
+    "brand": "Katyayani Organics",
+    "category": "crop-protection",
+    "subCategory": "fungicides",
+    "technicalContent": "Mancozeb 40% + Azoxystrobin 7% OS",
+    "activeIngredients": [
+      "mancozeb",
+      "azoxystrobin"
+    ],
+    "formulation": "Oil Suspension (OS)",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 995,
+        "mrp": 2360,
+        "inStock": true
+      },
+      {
+        "size": "3",
+        "unit": "L",
+        "price": 2749,
+        "mrp": 7080,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 4549,
+        "mrp": 11800,
+        "inStock": true
+      },
+      {
+        "size": "10",
+        "unit": "L",
+        "price": 9044,
+        "mrp": 23600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Tomato"
+    ],
+    "pests": [
+      "Early Blight",
+      "Late Blight"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-superstin-carbendazim-50-wp-fungicide",
+    "name": "Katyayani SuperStin | Carbendazim 50% WP | Fungicide",
+    "brand": "Katyayani Organics",
+    "category": "crop-protection",
+    "subCategory": "fungicides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Wettable Powder (WP)",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 945,
+        "mrp": 2000,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1885,
+        "mrp": 3700,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 4672,
+        "mrp": 20000,
+        "inStock": true
+      },
+      {
+        "size": "2.5",
+        "unit": "kg",
+        "price": 4696,
+        "mrp": 9250,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-yieldbor-boron-ethanolamine-10-liquid-fertilizer",
+    "name": "Katyayani YieldBor (Boron Ethanolamine 10%) Liquid Fertilizer",
+    "brand": "Katyayani Organics",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Suspension Concentrate (SC)",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 399,
+        "mrp": 847,
+        "inStock": true
+      },
+      {
+        "size": "300",
+        "unit": "ml",
+        "price": 405,
+        "mrp": 1650,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 656,
+        "mrp": 1619,
+        "inStock": true
+      },
+      {
+        "size": "250 × 3",
+        "unit": "ml",
+        "price": 1145,
+        "mrp": 2541,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1250,
+        "mrp": 3056,
+        "inStock": true
+      },
+      {
+        "size": "250 × 5",
+        "unit": "ml",
+        "price": 1685,
+        "mrp": 4235,
+        "inStock": true
+      },
+      {
+        "size": "500 × 3",
+        "unit": "ml",
+        "price": 1919,
+        "mrp": 4858,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "ml",
+        "price": 2449,
+        "mrp": 8096,
+        "inStock": true
+      },
+      {
+        "size": "1 × 3",
+        "unit": "L",
+        "price": 3658,
+        "mrp": 9167,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 4808,
+        "mrp": 15620,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 5149,
+        "mrp": 15279,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 12507,
+        "mrp": 46860,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "L",
+        "price": 20005,
+        "mrp": 78100,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/chambal-uttam-sulton-90-sulphur-granular-fertilizer",
+    "name": "Chambal Uttam Sulton 90% Sulphur Granular Fertilizer",
+    "brand": "Chambal Fertilizers",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Elemental Sulphur 90%",
+    "activeIngredients": [
+      "elemental sulphur"
+    ],
+    "formulation": "Granular Fertilizer",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 854,
+        "mrp": 900,
+        "inStock": true
+      },
+      {
+        "size": "5 × 10",
+        "unit": "kg",
+        "price": 8244,
+        "mrp": 9000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/chambal-uttam-calrich-calcium-nitrate-calcium-185-nitrogen-155-fertilizer",
+    "name": "Chambal Uttam Calrich Calcium Nitrate (Calcium 18.5% + Nitrogen 15.5%) Fertilizer",
+    "brand": "Chambal Fertilizers",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Calcium Nitrate",
+    "activeIngredients": [
+      "calcium nitrate"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 679,
+        "mrp": 900,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "kg",
+        "price": 1340,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "kg",
+        "price": 3305,
+        "mrp": 4500,
+        "inStock": true
+      },
+      {
+        "size": "5 × 10",
+        "unit": "kg",
+        "price": 6520,
+        "mrp": 9000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural",
+      "Vegetable"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-ethiocyper-45-insecticide",
+    "name": "Katyayani Ethiocyper 45 Ethion 40% + Cypermethrin 5% EC Insecticide",
+    "brand": "Katyayani Organics",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 965,
+        "mrp": 1250,
+        "inStock": true
+      },
+      {
+        "size": "1 × 3",
+        "unit": "L",
+        "price": 2856,
+        "mrp": 3750,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 4609,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 9049,
+        "mrp": 12500,
+        "inStock": true
+      },
+      {
+        "size": "20",
+        "unit": "L",
+        "price": 17789,
+        "mrp": 25000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Cotton",
+      "Chilli"
+    ],
+    "pests": [
+      "American Bollworm",
+      "Mites",
+      "Thrips"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shriram-zinfit-m-zinc-micronutrient-fertilizer",
+    "name": "Shriram Zinfit-M Zinc Micronutrient Fertilizer",
+    "brand": "Shriram",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 749,
+        "mrp": 1000,
+        "inStock": true
+      },
+      {
+        "size": "4 × 2",
+        "unit": "kg",
+        "price": 1478,
+        "mrp": 2000,
+        "inStock": true
+      },
+      {
+        "size": "4 × 4",
+        "unit": "kg",
+        "price": 2916,
+        "mrp": 4000,
+        "inStock": true
+      },
+      {
+        "size": "4 × 8",
+        "unit": "kg",
+        "price": 5752,
+        "mrp": 8000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sumitomo-combi-x-super-insecticide",
+    "name": "Sumitomo Combi-X Super (Chlorpyriphos 50% + Cypermethrin 5% EC) Insecticide",
+    "brand": "Sumitomo",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 749,
+        "mrp": 1599,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1466,
+        "mrp": 3198,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 2868,
+        "mrp": 6396,
+        "inStock": true
+      },
+      {
+        "size": "1 × 6",
+        "unit": "L",
+        "price": 4206,
+        "mrp": 9594,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 5608,
+        "mrp": 12792,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Sumitomo Chemical India Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-maxharvest-paclobutrazol-40-sc-plant-growth-regulator",
+    "name": "Katyayani MaxHarvest (Paclobutrazol 40% SC) Plant Growth Regulator",
+    "brand": "Katyayani Organics",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Suspension Concentrate (SC)",
+    "packs": [
+      {
+        "size": "30",
+        "unit": "ml",
+        "price": 261,
+        "mrp": 620,
+        "inStock": true
+      },
+      {
+        "size": "30 × 2",
+        "unit": "ml",
+        "price": 522,
+        "mrp": 1240,
+        "inStock": true
+      },
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 524,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "30 × 5",
+        "unit": "ml",
+        "price": 771,
+        "mrp": 3100,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "ml",
+        "price": 1814,
+        "mrp": 9000,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "ml",
+        "price": 3517,
+        "mrp": 18000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Pigeon Pea (Red Gram)",
+      "Soybean"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/katyayani-shikaar-acephate-75-sp-systemic-insecticide-for-crop-pest-control",
+    "name": "Katyayani Shikaar (Acephate 75% SP) Systemic Insecticide for Crop Pest Control",
+    "brand": "Katyayani Organics",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Soluble Powder (SP)",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 216,
+        "mrp": 310,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 267,
+        "mrp": 690,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 499,
+        "mrp": 1186,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "g",
+        "price": 969,
+        "mrp": 1550,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 974,
+        "mrp": 2372,
+        "inStock": true
+      },
+      {
+        "size": "250 × 4",
+        "unit": "g",
+        "price": 1096,
+        "mrp": 2760,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "g",
+        "price": 1997,
+        "mrp": 3100,
+        "inStock": true
+      },
+      {
+        "size": "500 × 4",
+        "unit": "g",
+        "price": 3279,
+        "mrp": 4744,
+        "inStock": true
+      },
+      {
+        "size": "500 × 8",
+        "unit": "g",
+        "price": 6079,
+        "mrp": 9488,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Cotton",
+      "Safflower",
+      "Rice (Paddy)"
+    ],
+    "pests": [
+      "Jassids",
+      "Bollworms",
+      "Aphids",
+      "Yellow Stem Borer",
+      "Leaf Folder",
+      "Plant Hoppers",
+      "Green Leafhopper"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/dhanuka-implode-topramezone-herbicide",
+    "name": "Dhanuka Implode Topramezone 336 g/L SC Herbicide",
+    "brand": "Dhanuka Agritech Limited",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "Topramezone 336 g/L (w/v) SC",
+    "activeIngredients": [
+      "topramezone 336 g/l (w/v)"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "15",
+        "unit": "ml",
+        "price": 799,
+        "mrp": 1362,
+        "inStock": true
+      },
+      {
+        "size": "15 × 4",
+        "unit": "ml",
+        "price": 3141,
+        "mrp": 5448,
+        "inStock": true
+      },
+      {
+        "size": "15 × 8",
+        "unit": "ml",
+        "price": 6174,
+        "mrp": 10896,
+        "inStock": true
+      },
+      {
+        "size": "15 × 10",
+        "unit": "ml",
+        "price": 7581,
+        "mrp": 13620,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Maize"
+    ],
+    "pests": [],
+    "dosage": "30–40 ml per Acre",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/dhanuka-fujita-isoprothiolane-40-ec",
+    "name": "Dhanuka Fujita Isoprothiolane 40% EC Fungicide",
+    "brand": "Dhanuka Agritech Limited",
+    "category": "crop-protection",
+    "subCategory": "fungicides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 899,
+        "mrp": 1250,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1773,
+        "mrp": 2500,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 3496,
+        "mrp": 5000,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 6892,
+        "mrp": 10000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Paddy (Rice)"
+    ],
+    "pests": [
+      "Leaf Blast",
+      "Neck Blast"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/coromandel-neemazal-ts-azadirachtin-1-ec-bio-insecticide",
+    "name": "Coromandel Neemazal T/S Azadirachtin 1% EC Bio Insecticide",
+    "brand": "Coromandel",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 999,
+        "mrp": 1425,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 1899,
+        "mrp": 2835,
+        "inStock": true
+      },
+      {
+        "size": "250 × 4",
+        "unit": "ml",
+        "price": 3939,
+        "mrp": 5700,
+        "inStock": true
+      },
+      {
+        "size": "500 × 4",
+        "unit": "ml",
+        "price": 7482,
+        "mrp": 11340,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Coromandel International Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agriventure-black-man-mycorrhiza-biofertilizer",
+    "name": "Agriventure Black Man Mycorrhiza Biofertilizer",
+    "brand": "Agriventure",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "Mycorrhiza with Organic Black Carbon",
+    "activeIngredients": [
+      "mycorrhiza with organic black carbon"
+    ],
+    "formulation": "Liquid Based",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1399,
+        "mrp": 1650,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 2765,
+        "mrp": 3300,
+        "inStock": true
+      },
+      {
+        "size": "1 × 4",
+        "unit": "L",
+        "price": 5464,
+        "mrp": 6600,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 10796,
+        "mrp": 13200,
+        "inStock": false
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Follow Original Product Label",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-oaktafert-zincosin-zinc-oxide-39-5-sc",
+    "name": "Oakland Oaktafert ZincoSin Zinc Oxide 39.5% SC",
+    "brand": "Oakland Agritech",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Zinc Oxide 39.5% SC (as supplied; label confirmation pending)",
+    "activeIngredients": [
+      "zinc oxide"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 644,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1009,
+        "mrp": 3600,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1945,
+        "mrp": 7200,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "ml",
+        "price": 3129,
+        "mrp": 9000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Follow Manufacturer's Dosage Chart",
+    "manufacturer": "Oakland Agritech"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-surprize-gold-paclobutrazol-40-sc-pgr",
+    "name": "Oakland Surprize Gold Paclobutrazol 40% SC PGR",
+    "brand": "Oakland Agritech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Suspension Concentrate (SC)",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "ml",
+        "price": 314,
+        "mrp": 450,
+        "inStock": true
+      },
+      {
+        "size": "50 × 2",
+        "unit": "ml",
+        "price": 619,
+        "mrp": 900,
+        "inStock": true
+      },
+      {
+        "size": "50 × 5",
+        "unit": "ml",
+        "price": 1525,
+        "mrp": 2250,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "ml",
+        "price": 3005,
+        "mrp": 4500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-lignofert-organic-acid",
+    "name": "Anand Agro Lignofert Organic Acid Soil Conditioner",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Organic Acid Based Formulation",
+    "activeIngredients": [
+      "organic acid based formulation"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 270,
+        "mrp": 300,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 545,
+        "mrp": 605,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 873,
+        "mrp": 970,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1728,
+        "mrp": 1920,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 6579,
+        "mrp": 7310,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-real-sona-biostimulant",
+    "name": "Anand Agro Real Sona Super Biostimulant",
+    "brand": "Anand Agro Care",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 756,
+        "mrp": 840,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 1782,
+        "mrp": 1980,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 2921,
+        "mrp": 3245,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 5724,
+        "mrp": 6360,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 22415,
+        "mrp": 24905,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-honey-bee-attract",
+    "name": "Anand Agro Honey Bee Attract Pollination Enhancer",
+    "brand": "Anand Agro Care",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Refer to Original Manufacturer Label",
+    "activeIngredients": [
+      "refer to original manufacturer label"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "25",
+        "unit": "ml",
+        "price": 248,
+        "mrp": 275,
+        "inStock": true
+      },
+      {
+        "size": "50",
+        "unit": "ml",
+        "price": 405,
+        "mrp": 450,
+        "inStock": true
+      },
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 720,
+        "mrp": 800,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 1647,
+        "mrp": 1830,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 3024,
+        "mrp": 3360,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 6021,
+        "mrp": 6690,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Refer to Manufacturer Label"
+    ],
+    "pests": [],
+    "dosage": "The exact dosage is not published on the available manufacturer product page. Follow the current product label for the correct application quantity.",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oakland-agritech-promax-super-profenofos-40-cypermethrin-4-ec-insecticide",
+    "name": "Oakland Agritech Promax Super Profenofos 40% + Cypermethrin 4% EC Insecticide",
+    "brand": "Oakland Agritech",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 324,
+        "mrp": 1250,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "ml",
+        "price": 648,
+        "mrp": 2500,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "ml",
+        "price": 1620,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "ml",
+        "price": 3240,
+        "mrp": 12500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Bollworm Complex"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-scale-up-homobrassinolide",
+    "name": "Anand Agro Scale Up Homobrassinolide Growth Promoter",
+    "brand": "Anand Agro Care",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Homobrassinolide + Marine Extracts + Vitamins",
+    "activeIngredients": [
+      "homobrassinolide",
+      "marine extracts",
+      "vitamins"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "ml",
+        "price": 342,
+        "mrp": 380,
+        "inStock": true
+      },
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 707,
+        "mrp": 785,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 1683,
+        "mrp": 1870,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 2835,
+        "mrp": 3150,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 5670,
+        "mrp": 6300,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 22230,
+        "mrp": 24700,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/albaugh-obolo-star-pyriproxyfen-10-bifenthrin-10-ec-insecticide",
+    "name": "Albaugh Obolo Star Pyriproxyfen 10% + Bifenthrin 10% EC Insecticide",
+    "brand": "Albaugh",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 489,
+        "mrp": 615,
+        "inStock": true
+      },
+      {
+        "size": "250 × 2",
+        "unit": "g",
+        "price": 965,
+        "mrp": 1230,
+        "inStock": true
+      },
+      {
+        "size": "250 × 5",
+        "unit": "g",
+        "price": 2383,
+        "mrp": 3075,
+        "inStock": true
+      },
+      {
+        "size": "250 × 10",
+        "unit": "g",
+        "price": 4705,
+        "mrp": 6150,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 799,
+        "mrp": 1102,
+        "inStock": false
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 1575,
+        "mrp": 2204,
+        "inStock": false
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 3884,
+        "mrp": 5510,
+        "inStock": false
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 7659,
+        "mrp": 11020,
+        "inStock": false
+      }
+    ],
+    "crops": [
+      "Cotton"
+    ],
+    "pests": [
+      "Whitefly"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-bold-size",
+    "name": "Anand Agro Bold Size",
+    "brand": "Anand Agro Care",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Refer to Original Manufacturer Label",
+    "activeIngredients": [
+      "refer to original manufacturer label"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 756,
+        "mrp": 840,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 1782,
+        "mrp": 1982,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 2939,
+        "mrp": 3265,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 5724,
+        "mrp": 6360,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 22415,
+        "mrp": 24905,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Follow the original manufacturer label for the correct quantity, dilution rate and application method.",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/srikar-biotech-lsr-harini315-research-wheat-seeds",
+    "name": "Srikar Biotech LSR Harini-315 Research Wheat Seeds",
+    "brand": "LSR Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "20",
+        "unit": "kg",
+        "price": 1999,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "20 × 2",
+        "unit": "kg",
+        "price": 3950,
+        "mrp": 4800,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Wheat"
+    ],
+    "pests": [],
+    "dosage": "Follow Original Seed Label",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/chemley-ceasefone-pyroxasulfone-85-wg-herbicide-for-wheat-weed-control",
+    "name": "Chemley Ceasefone Pyroxasulfone 85% WG Herbicide for Wheat Weed Control",
+    "brand": "Chemley Agritech Private Limited",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Water Dispersible Granules",
+    "packs": [
+      {
+        "size": "60",
+        "unit": "g",
+        "price": 749,
+        "mrp": 2410,
+        "inStock": true
+      },
+      {
+        "size": "60 × 2",
+        "unit": "g",
+        "price": 1449,
+        "mrp": 4820,
+        "inStock": true
+      },
+      {
+        "size": "60 × 5",
+        "unit": "g",
+        "price": 3504,
+        "mrp": 12050,
+        "inStock": true
+      },
+      {
+        "size": "60 × 10",
+        "unit": "g",
+        "price": 6766,
+        "mrp": 24100,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Follow Original Ceasefone Label",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/godrej-richesa-pyroxasulfone-85-wg-herbicide-for-wheat-maize-soybean",
+    "name": "Godrej Richesa Pyroxasulfone 85% WG Herbicide for Wheat, Maize & Soybean",
+    "brand": "Godrej Agrovet Limited",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "Pyroxasulfone 85%",
+    "activeIngredients": [
+      "pyroxasulfone"
+    ],
+    "formulation": "Water Dispersible Granules (WG)",
+    "packs": [
+      {
+        "size": "60",
+        "unit": "g",
+        "price": 749,
+        "mrp": 1260,
+        "inStock": true
+      },
+      {
+        "size": "60 × 2",
+        "unit": "g",
+        "price": 1472,
+        "mrp": 2520,
+        "inStock": true
+      },
+      {
+        "size": "60 × 5",
+        "unit": "g",
+        "price": 3619,
+        "mrp": 6300,
+        "inStock": true
+      },
+      {
+        "size": "60 × 10",
+        "unit": "g",
+        "price": 7112,
+        "mrp": 12600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Wheat",
+      "Maize",
+      "Soybean"
+    ],
+    "pests": [],
+    "dosage": "Follow Godrej Richesa Label Instructions",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/kalash-seeds-bss811-f1-hybrid-green-chilli-seeds",
+    "name": "Kalash Seeds BSS-811 F1 Hybrid Green Chilli Seeds",
+    "brand": "Kalash Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 549,
+        "mrp": 680,
+        "inStock": true
+      },
+      {
+        "size": "10 × 3",
+        "unit": "g",
+        "price": 1626,
+        "mrp": 2040,
+        "inStock": true
+      },
+      {
+        "size": "10 × 5",
+        "unit": "g",
+        "price": 2677,
+        "mrp": 3400,
+        "inStock": true
+      },
+      {
+        "size": "10 × 10",
+        "unit": "g",
+        "price": 5286,
+        "mrp": 6800,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Chilli",
+      "Green Chilli"
+    ],
+    "pests": [],
+    "dosage": "As Recommended on the Original Seed Packet",
+    "manufacturer": "Kalash Seeds Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/hapl-toto-biostimulant-for-plant-growth-nutrient-uptake",
+    "name": "HAPL TOTO Bio-Stimulant for Plant Growth & Nutrient Uptake",
+    "brand": "HAPL",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "5",
+        "unit": "pcs",
+        "price": 599,
+        "mrp": 980,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "pcs",
+        "price": 2946,
+        "mrp": 4900,
+        "inStock": true
+      },
+      {
+        "size": "5 × 10",
+        "unit": "pcs",
+        "price": 5794,
+        "mrp": 9800,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/hapl-karishma-black-mustard-kala-tora-seeds",
+    "name": "HAPL Karishma Black Mustard (Kala Tora) Seeds",
+    "brand": "HAPL",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 499,
+        "mrp": 590,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "kg",
+        "price": 946,
+        "mrp": 1180,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 2436,
+        "mrp": 2950,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 4813,
+        "mrp": 5900,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "Follow Original Seed Packet",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/hapl-karishma-gold-b9-tori-yellow-mustard-seeds",
+    "name": "HAPL Karishma Gold B-9 Tori Yellow Mustard Seeds",
+    "brand": "HAPL",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 499,
+        "mrp": 590,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 2465,
+        "mrp": 2950,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 4872,
+        "mrp": 5900,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Toria",
+      "Rapeseed"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/nfl-kisan-atri-atrazine-50-wp-herbicide-for-maize-sugarcane",
+    "name": "NFL Kisan Atri Atrazine 50% WP Herbicide for Maize & Sugarcane",
+    "brand": "NFL",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "Atrazine 50% w/w",
+    "activeIngredients": [
+      "atrazine"
+    ],
+    "formulation": "Wettable Powder (WP)",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 397,
+        "mrp": 398,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "g",
+        "price": 786,
+        "mrp": 796,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "g",
+        "price": 1945,
+        "mrp": 1990,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "g",
+        "price": 3850,
+        "mrp": 3980,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Maize",
+      "Sugarcane",
+      "Subject to Product Label"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "National Fertilizers Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shatabdi-nageena-f1-hybrid-snake-gourd-seeds",
+    "name": "Shatabdi Seeds Nageena F1 Hybrid Snake Gourd (Chichinda) Seeds",
+    "brand": "Shatabdi Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 169,
+        "mrp": 175,
+        "inStock": true
+      },
+      {
+        "size": "10 × 2",
+        "unit": "g",
+        "price": 334,
+        "mrp": 350,
+        "inStock": true
+      },
+      {
+        "size": "10 × 5",
+        "unit": "g",
+        "price": 827,
+        "mrp": 875,
+        "inStock": true
+      },
+      {
+        "size": "10 × 10",
+        "unit": "g",
+        "price": 1637,
+        "mrp": 1750,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Snake Gourd (Chichinda)"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shriram-forza-boronated-calcium-nitrate",
+    "name": "Shriram Forza Boronated Calcium Nitrate Fertilizer for Flowering & Fruiting",
+    "brand": "Shriram",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Boronated Calcium Nitrate",
+    "activeIngredients": [
+      "boronated calcium nitrate"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "kg",
+        "price": 1349,
+        "mrp": 1980,
+        "inStock": true
+      },
+      {
+        "size": "30",
+        "unit": "kg",
+        "price": 3999,
+        "mrp": 5900,
+        "inStock": true
+      },
+      {
+        "size": "10 × 5",
+        "unit": "kg",
+        "price": 6646,
+        "mrp": 9900,
+        "inStock": true
+      },
+      {
+        "size": "10 × 10",
+        "unit": "kg",
+        "price": 13094,
+        "mrp": 19800,
+        "inStock": true
+      },
+      {
+        "size": "30 × 5",
+        "unit": "kg",
+        "price": 19699,
+        "mrp": 29500,
+        "inStock": true
+      },
+      {
+        "size": "30 × 10",
+        "unit": "kg",
+        "price": 38809,
+        "mrp": 59000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Vegetables"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "DCM Shriram Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/foragen-maxpro-lucerne-fodder-seeds",
+    "name": "Foragen Max-Pro Lucerne Fodder Seeds – Perennial Multi-Cut Alfalfa",
+    "brand": "Foragen",
+    "category": "seeds",
+    "subCategory": "fodder-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1396,
+        "mrp": 1500,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "kg",
+        "price": 2762,
+        "mrp": 3000,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 6830,
+        "mrp": 7500,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Lucerne",
+      "Alfalfa"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shivalik-rounder-71-glyphosate-71-sg-systemic-herbicide",
+    "name": "Shivalik Rounder 71 Glyphosate 71% SG Systemic Herbicide",
+    "brand": "Shivalik Crop Sciences",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Soluble Granules (SG)",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 123,
+        "mrp": 250,
+        "inStock": true
+      },
+      {
+        "size": "100 × 2",
+        "unit": "g",
+        "price": 241,
+        "mrp": 500,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "g",
+        "price": 590,
+        "mrp": 1250,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "g",
+        "price": 1155,
+        "mrp": 2500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geeken-tabaki-pyroxasulfone-85-wg-herbicide",
+    "name": "Geeken Tabaki Pyroxasulfone 85% WG Herbicide",
+    "brand": "Geeken",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Water Dispersible Granules",
+    "packs": [
+      {
+        "size": "60",
+        "unit": "g",
+        "price": 875,
+        "mrp": 2250,
+        "inStock": true
+      },
+      {
+        "size": "60 × 2",
+        "unit": "g",
+        "price": 1704,
+        "mrp": 4500,
+        "inStock": true
+      },
+      {
+        "size": "60 × 5",
+        "unit": "g",
+        "price": 4149,
+        "mrp": 11250,
+        "inStock": true
+      },
+      {
+        "size": "60 × 10",
+        "unit": "g",
+        "price": 8074,
+        "mrp": 22500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/chemley-dotsu-50-clothianidin-50-wg-insecticide",
+    "name": "Chemley Dotsu 50 Clothianidin 50% WG Insecticide",
+    "brand": "Chemley Agritech Private Limited",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Clothianidin",
+    "activeIngredients": [
+      "clothianidin"
+    ],
+    "formulation": "Water Dispersible Granules (WG)",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 579,
+        "mrp": 1210,
+        "inStock": true
+      },
+      {
+        "size": "100 × 2",
+        "unit": "g",
+        "price": 1133,
+        "mrp": 2420,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "g",
+        "price": 2834,
+        "mrp": 6050,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "g",
+        "price": 5426,
+        "mrp": 12100,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Other Label-Listed Insects"
+    ],
+    "dosage": "",
+    "manufacturer": "Chemley Agritech Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agribee-crystal-research-green-gram-seeds",
+    "name": "AgriBee Crystal Research Green Gram Seeds",
+    "brand": "AgriBee",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 339,
+        "mrp": 799,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "kg",
+        "price": 662,
+        "mrp": 1598,
+        "inStock": true
+      },
+      {
+        "size": "3",
+        "unit": "kg",
+        "price": 899,
+        "mrp": 2399,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 1399,
+        "mrp": 3999,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 1615,
+        "mrp": 3995,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 3150,
+        "mrp": 7990,
+        "inStock": true
+      },
+      {
+        "size": "3 × 5",
+        "unit": "kg",
+        "price": 4375,
+        "mrp": 11995,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "kg",
+        "price": 6795,
+        "mrp": 19995,
+        "inStock": true
+      },
+      {
+        "size": "3 × 10",
+        "unit": "kg",
+        "price": 8510,
+        "mrp": 23990,
+        "inStock": true
+      },
+      {
+        "size": "5 × 10",
+        "unit": "kg",
+        "price": 13190,
+        "mrp": 39990,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Green Gram",
+      "Moong"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "AgriBee Seeds Private Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agribee-rudra-research-black-gram-seeds",
+    "name": "AgriBee Rudra Research Black Gram Seeds",
+    "brand": "AgriBee",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 339,
+        "mrp": 799,
+        "inStock": true
+      },
+      {
+        "size": "3",
+        "unit": "kg",
+        "price": 899,
+        "mrp": 2399,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 1399,
+        "mrp": 2999,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 1655,
+        "mrp": 3995,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 3230,
+        "mrp": 7990,
+        "inStock": true
+      },
+      {
+        "size": "3 × 5",
+        "unit": "kg",
+        "price": 4375,
+        "mrp": 11995,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "kg",
+        "price": 6845,
+        "mrp": 14995,
+        "inStock": true
+      },
+      {
+        "size": "3 × 10",
+        "unit": "kg",
+        "price": 8510,
+        "mrp": 23990,
+        "inStock": true
+      },
+      {
+        "size": "5 × 10",
+        "unit": "kg",
+        "price": 13390,
+        "mrp": 29990,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Black Gram",
+      "Urad"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/shivalik-nyra-pyroxasulfone-85-wg-selective-herbicide",
+    "name": "Shivalik Nyra Pyroxasulfone 85% WG Selective Herbicide",
+    "brand": "Shivalik Crop Sciences",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "Pyroxasulfone 85% w/w",
+    "activeIngredients": [
+      "pyroxasulfone"
+    ],
+    "formulation": "Water Dispersible Granules (WG)",
+    "packs": [
+      {
+        "size": "60",
+        "unit": "g",
+        "price": 889,
+        "mrp": 2200,
+        "inStock": true
+      },
+      {
+        "size": "60 × 2",
+        "unit": "g",
+        "price": 1733,
+        "mrp": 4400,
+        "inStock": true
+      },
+      {
+        "size": "60 × 4",
+        "unit": "g",
+        "price": 3379,
+        "mrp": 8800,
+        "inStock": true
+      },
+      {
+        "size": "60 × 5",
+        "unit": "g",
+        "price": 4114,
+        "mrp": 11000,
+        "inStock": true
+      },
+      {
+        "size": "60 × 8",
+        "unit": "g",
+        "price": 6583,
+        "mrp": 17600,
+        "inStock": true
+      },
+      {
+        "size": "60 × 10",
+        "unit": "g",
+        "price": 8229,
+        "mrp": 22000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Wheat",
+      "Maize",
+      "Soybean",
+      "subject to product label approval"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/biofactor-sampoorna-npk-11-11-8-zinc-boron",
+    "name": "Biofactor Sampoorna NPK 11:11:8 Fortified with Zinc and Boron",
+    "brand": "Biofactor",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "NPK 11:11:8 Fortified with Zinc and Boron",
+    "activeIngredients": [
+      "npk 11:11:8 fortified with zinc",
+      "boron"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 779,
+        "mrp": 960,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "ml",
+        "price": 1538,
+        "mrp": 1920,
+        "inStock": true
+      },
+      {
+        "size": "500 × 4",
+        "unit": "ml",
+        "price": 3039,
+        "mrp": 3840,
+        "inStock": true
+      },
+      {
+        "size": "500 × 5",
+        "unit": "ml",
+        "price": 3751,
+        "mrp": 4800,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "ml",
+        "price": 7502,
+        "mrp": 9600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/best-agrolife-dongle-paclobutrazol-40-sc",
+    "name": "Best Agrolife Dongle Paclobutrazol 40% SC Plant Growth Regulator",
+    "brand": "Best Agrolife",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Paclobutrazol 40% SC",
+    "activeIngredients": [
+      "paclobutrazol"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 799,
+        "mrp": 1510,
+        "inStock": true
+      },
+      {
+        "size": "100 × 3",
+        "unit": "ml",
+        "price": 2351,
+        "mrp": 4530,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "ml",
+        "price": 3919,
+        "mrp": 7550,
+        "inStock": true
+      },
+      {
+        "size": "100 × 7",
+        "unit": "ml",
+        "price": 5275,
+        "mrp": 10570,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "ml",
+        "price": 7688,
+        "mrp": 15100,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Best Agrolife Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/nfl-kisan-imida-super-imidacloprid-30-5-sc-insecticide",
+    "name": "NFL Kisan Imida Super Imidacloprid 30.5% SC Systemic Insecticide",
+    "brand": "NFL",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Imidacloprid 30.5% SC",
+    "activeIngredients": [
+      "imidacloprid"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 689,
+        "mrp": 791,
+        "inStock": true
+      },
+      {
+        "size": "500 × 2",
+        "unit": "ml",
+        "price": 1362,
+        "mrp": 1582,
+        "inStock": true
+      },
+      {
+        "size": "500 × 4",
+        "unit": "ml",
+        "price": 2692,
+        "mrp": 3164,
+        "inStock": true
+      },
+      {
+        "size": "500 × 6",
+        "unit": "ml",
+        "price": 3991,
+        "mrp": 4746,
+        "inStock": true
+      },
+      {
+        "size": "500 × 8",
+        "unit": "ml",
+        "price": 5322,
+        "mrp": 6328,
+        "inStock": true
+      },
+      {
+        "size": "500 × 10",
+        "unit": "ml",
+        "price": 6652,
+        "mrp": 7910,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Cotton",
+      "Paddy",
+      "Chilli",
+      "subject to approved label"
+    ],
+    "pests": [
+      "Aphids",
+      "Jassids",
+      "Thrips",
+      "Brown Planthoppers",
+      "White-Backed Planthoppers"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/nfl-kisan-imida-imidacloprid-17-8-sl-insecticide",
+    "name": "NFL Kisan Imida Imidacloprid 17.8% SL Systemic Insecticide",
+    "brand": "NFL",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Imidacloprid 17.8% SL",
+    "activeIngredients": [
+      "imidacloprid"
+    ],
+    "formulation": "SL",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 799,
+        "mrp": 1170,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 3936,
+        "mrp": 5850,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 7756,
+        "mrp": 11700,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Aphids",
+      "Jassids",
+      "Whiteflies",
+      "Thrips",
+      "Selected Planthoppers"
+    ],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-tabsil-root-orthosilicic-acid-12-fortified-fertilizer",
+    "name": "Geolife Tabsil Root Orthosilicic Acid 12% Fortified Fertilizer",
+    "brand": "Geolife",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Orthosilicic Acid 12%",
+    "activeIngredients": [
+      "orthosilicic acid"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1249,
+        "mrp": 1632,
+        "inStock": false
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 6163,
+        "mrp": 8160,
+        "inStock": false
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 12163,
+        "mrp": 16320,
+        "inStock": false
+      }
+    ],
+    "crops": [
+      "According to Manufacturer"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-novirus-ctc-botanical-extract-biostimulant-moringa-oleifera-135",
+    "name": "Geolife No-Virus CTC Botanical Extract Biostimulant (Moringa oleifera 13.5%)",
+    "brand": "Geolife",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Moringa oleifera Extract 13.5%",
+    "activeIngredients": [
+      "moringa oleifera extract"
+    ],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 399,
+        "mrp": 590,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 789,
+        "mrp": 1129,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1439,
+        "mrp": 2134,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 14176,
+        "mrp": 21340,
+        "inStock": true
+      },
+      {
+        "size": "500 × 20",
+        "unit": "ml",
+        "price": 15780,
+        "mrp": 22580,
+        "inStock": true
+      },
+      {
+        "size": "250 × 40",
+        "unit": "ml",
+        "price": 15960,
+        "mrp": 23600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Application Consideration"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-no-virus-ac-moringa-biostimulant",
+    "name": "Geolife No-Virus AC Botanical Extract Biostimulant (Moringa oleifera 13.5%)",
+    "brand": "Geolife",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "Moringa oleifera Extract 13.5%",
+    "activeIngredients": [
+      "moringa oleifera extract"
+    ],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 389,
+        "mrp": 516,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 751,
+        "mrp": 982,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1299,
+        "mrp": 1826,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 12807,
+        "mrp": 18260,
+        "inStock": true
+      },
+      {
+        "size": "500 × 20",
+        "unit": "ml",
+        "price": 15020,
+        "mrp": 19640,
+        "inStock": true
+      },
+      {
+        "size": "250 × 40",
+        "unit": "ml",
+        "price": 15640,
+        "mrp": 20640,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Agricultural"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-full-meal-grow",
+    "name": "Geolife Full Meal Grow Water Soluble Fertilizer",
+    "brand": "Geolife",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "Macro and Micronutrients, Orthosilicic Acid and Biological Extracts",
+    "activeIngredients": [
+      "macro",
+      "micronutrients",
+      "orthosilicic acid",
+      "biological extracts"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 297,
+        "mrp": 311,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 997,
+        "mrp": 1483,
+        "inStock": true
+      },
+      {
+        "size": "100 × 50",
+        "unit": "g",
+        "price": 14850,
+        "mrp": 15550,
+        "inStock": true
+      },
+      {
+        "size": "500 × 20",
+        "unit": "g",
+        "price": 19940,
+        "mrp": 29660,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "As Per Manufacturer"
+    ],
+    "pests": [],
+    "dosage": "500 GM per Acre",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/anand-agro-hybrid-calcio-40-5-calcium-oxide-fertilizer",
+    "name": "Anand Agro Hybrid Calcio 40.5%",
+    "brand": "Anand Agro Care",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Powder",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1264,
+        "mrp": 1580,
+        "inStock": true
+      },
+      {
+        "size": "2",
+        "unit": "kg",
+        "price": 2496,
+        "mrp": 3120,
+        "inStock": true
+      },
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 4680,
+        "mrp": 5850,
+        "inStock": true
+      },
+      {
+        "size": "10",
+        "unit": "kg",
+        "price": 11576,
+        "mrp": 14470,
+        "inStock": true
+      },
+      {
+        "size": "25",
+        "unit": "kg",
+        "price": 27332,
+        "mrp": 34165,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Anand Agro Care"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-endogang-psb-biofertilizer",
+    "name": "Geolife Endogang Phosphate Solubilising Bacteria (PSB) Biofertilizer",
+    "brand": "Geolife",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Biofertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 519,
+        "mrp": 771,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 939,
+        "mrp": 1514,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1799,
+        "mrp": 2998,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 17990,
+        "mrp": 29980,
+        "inStock": true
+      },
+      {
+        "size": "500 × 20",
+        "unit": "ml",
+        "price": 18780,
+        "mrp": 30280,
+        "inStock": true
+      },
+      {
+        "size": "250 × 40",
+        "unit": "ml",
+        "price": 20760,
+        "mrp": 30840,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "As Per Product Label"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/geolife-balance-flower",
+    "name": "Geolife Balance Flower Micronutrient Mixture Fertilizer",
+    "brand": "Geolife",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "Specially Formulated Nutrient Mixture with Enzymes",
+    "activeIngredients": [
+      "specially formulated nutrient mixture with enzymes"
+    ],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "g",
+        "price": 289,
+        "mrp": 3777,
+        "inStock": true
+      },
+      {
+        "size": "50 × 100",
+        "unit": "g",
+        "price": 28900,
+        "mrp": 377700,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Vegetables",
+      "Fruits",
+      "Cereals",
+      "Pulses",
+      "Spices",
+      "Flowers"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Geolife Agritech India Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-neemodi-azadirachtin-1500-ppm-neem-oil",
+    "name": "Arihant Neemodi Neem Oil Bio Pesticide",
+    "brand": "Arihant",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Azadirachtin",
+    "activeIngredients": [
+      "azadirachtin"
+    ],
+    "formulation": "Emulsifiable Concentrate (EC)",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "ml",
+        "price": 209,
+        "mrp": 215,
+        "inStock": true
+      },
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 329,
+        "mrp": 390,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 499,
+        "mrp": 565,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 799,
+        "mrp": 900,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1580,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 3905,
+        "mrp": 4500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-organic-carbon-fermented-organic-manure",
+    "name": "Arihant Organic Carbon Fermented Organic Manure",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 375,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 552,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 2199,
+        "mrp": 2499,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-mycoheal-mycorrhizal-ecto-liquid-bio-fertilizer",
+    "name": "Arihant Mycoheal Mycorrhizal Ecto Liquid Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Biofertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 229,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 585,
+        "mrp": 672,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-myco-sync-mycorrhizal-vam-liquid-bio-fertilizer",
+    "name": "Arihant Myco Sync Mycorrhizal VAM Liquid Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 255,
+        "mrp": 332,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 389,
+        "mrp": 470,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 659,
+        "mrp": 850,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1301,
+        "mrp": 1700,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-sulphoxi-sulphur-oxidizing-bacteria-bio-fertilizer",
+    "name": "Arihant Sulphoxi Sulphur Oxidizing Bacteria Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Bio Fertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 579,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1144,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-phosolve-phosphate-solubilizing-fungal-bio-fertilizer",
+    "name": "Arihant Phosolve Phosphate Solubilizing Fungal Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Bio Fertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 575,
+        "mrp": 672,
+        "inStock": false
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1136,
+        "mrp": 1344,
+        "inStock": false
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-zinclip-zinc-solubilizing-bacteria-bio-fertilizer",
+    "name": "Arihant Zinclip Zinc Solubilizing Bacteria Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Bio Fertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 559,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1104,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/ramcides-gallup-insecticide",
+    "name": "Ramcides Gallup Insecticide (Emamectin Benzoate 5% SG)",
+    "brand": "Ramcides",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Emamectin Benzoate 5% SG",
+    "activeIngredients": [
+      "emamectin benzoate"
+    ],
+    "formulation": "SG - Water Soluble Granules",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 529,
+        "mrp": 780,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "g",
+        "price": 849,
+        "mrp": 1320,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 1549,
+        "mrp": 2630,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 7613,
+        "mrp": 13150,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 14964,
+        "mrp": 26300,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Ramcides CropScience Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-consol-consortia-bio-npk-fertilizer",
+    "name": "Arihant Consol Consortia (Bio NPK) Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 249,
+        "mrp": 332,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 389,
+        "mrp": 470,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 649,
+        "mrp": 850,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1281,
+        "mrp": 1700,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-potagrip-potassium-mobilizing-bacteria",
+    "name": "Arihant Potagrip Potassium Mobilizing Bacteria Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Biofertilizer",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 351,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 566,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1118,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-phosfill-phosphate-solubilizing-bacteria",
+    "name": "Arihant Phosfill Phosphate Solubilizing Bacteria Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 565,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1116,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-acefix-acetobacter-bio-fertilizer",
+    "name": "Arihant Acefix Acetobacter Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "Acetobacter",
+    "activeIngredients": [
+      "acetobacter"
+    ],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 565,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1116,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Sugarcane",
+      "Paddy",
+      "Vegetables",
+      "Fruits"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-nitrofix-azospirillum-bio-fertilizer",
+    "name": "Arihant Nitrofix Azospirillum Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 559,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1104,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-rhizostick-rhizobium-bio-fertilizer",
+    "name": "Arihant Rhizostick Rhizobium Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 559,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1104,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Soybean",
+      "Groundnut",
+      "Chickpea",
+      "Pigeon Pea",
+      "Green Gram",
+      "Black Gram",
+      "Cowpea",
+      "Pea",
+      "Lentil",
+      "Cluster Bean"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/arihant-azofix-azotobacter-bio-fertilizer",
+    "name": "Arihant Azofix Azotobacter Bio Fertilizer",
+    "brand": "Arihant",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "Azotobacter spp.",
+    "activeIngredients": [
+      "azotobacter spp."
+    ],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "ml",
+        "price": 225,
+        "mrp": 286,
+        "inStock": true
+      },
+      {
+        "size": "500",
+        "unit": "ml",
+        "price": 349,
+        "mrp": 404,
+        "inStock": true
+      },
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 559,
+        "mrp": 672,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 1104,
+        "mrp": 1344,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Wheat",
+      "Rice",
+      "Maize",
+      "Cotton",
+      "Sugarcane",
+      "Millets"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Arihant Bioscience (India) Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/willowood-maxeed-seed-treatment",
+    "name": "Willowood Maxeed Seed Treatment Fungicide & Insecticide",
+    "brand": "Willowood Crop Science Pvt. Ltd.",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Carboxin 22.5% + Thiram 22.5% + Imidacloprid 18% WS",
+    "activeIngredients": [
+      "carboxin",
+      "thiram",
+      "imidacloprid"
+    ],
+    "formulation": "WS – Water Dispersible Powder for Slurry Seed Treatment",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "g",
+        "price": 298,
+        "mrp": null,
+        "inStock": true
+      },
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 499,
+        "mrp": 520,
+        "inStock": true
+      },
+      {
+        "size": "100 × 3",
+        "unit": "g",
+        "price": 1481,
+        "mrp": 1560,
+        "inStock": true
+      },
+      {
+        "size": "100 × 5",
+        "unit": "g",
+        "price": 2443,
+        "mrp": 2600,
+        "inStock": true
+      },
+      {
+        "size": "100 × 10",
+        "unit": "g",
+        "price": 4834,
+        "mrp": 5200,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/tycoon-agro-black-tycoon-humic-acid",
+    "name": "Tycoon Agro Black Tycoon Humic Acid 98% Organic Fertilizer",
+    "brand": "Tycoon Seedtech Pvt. Ltd",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 599,
+        "mrp": 820,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 2954,
+        "mrp": 4100,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "kg",
+        "price": 4660,
+        "mrp": 6560,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 5744,
+        "mrp": 8200,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Tycoon Agro Pvt. Ltd."
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/megazen-insecticide-chlorantraniliprole-185-sc",
+    "name": "Megazen Insecticide (Chlorantraniliprole 18.5% SC)",
+    "brand": "Megazen",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Chlorantraniliprole 18.5% w/w SC",
+    "activeIngredients": [
+      "chlorantraniliprole"
+    ],
+    "formulation": "SC",
+    "packs": [
+      {
+        "size": "150",
+        "unit": "ml",
+        "price": 899,
+        "mrp": 2050,
+        "inStock": true
+      },
+      {
+        "size": "150 × 2",
+        "unit": "ml",
+        "price": 1756,
+        "mrp": 4100,
+        "inStock": true
+      },
+      {
+        "size": "150 × 4",
+        "unit": "ml",
+        "price": 3431,
+        "mrp": 8200,
+        "inStock": true
+      },
+      {
+        "size": "150 × 6",
+        "unit": "ml",
+        "price": 5024,
+        "mrp": 12300,
+        "inStock": true
+      },
+      {
+        "size": "150 × 8",
+        "unit": "ml",
+        "price": 6699,
+        "mrp": 16400,
+        "inStock": true
+      },
+      {
+        "size": "150 × 10",
+        "unit": "ml",
+        "price": 8374,
+        "mrp": 20500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Srikar Biotech"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/green-heal-green-verticill-bio-insecticide",
+    "name": "Green Heal Green Verticill Bio Insecticide (Verticillium lecanii)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Verticillium lecanii",
+    "activeIngredients": [
+      "verticillium lecanii"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 449,
+        "mrp": 480,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 888,
+        "mrp": 960,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 2199,
+        "mrp": 3125,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "L",
+        "price": 4335,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 6409,
+        "mrp": 9375,
+        "inStock": true
+      },
+      {
+        "size": "5 × 4",
+        "unit": "L",
+        "price": 8421,
+        "mrp": 12500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/green-heal-green-meta-bio-insecticide",
+    "name": "Green Heal Green Meta Bio Insecticide (Metarhizium anisopliae)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Metarhizium anisopliae",
+    "activeIngredients": [
+      "metarhizium anisopliae"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 449,
+        "mrp": 480,
+        "inStock": true
+      },
+      {
+        "size": "1 × 3",
+        "unit": "L",
+        "price": 1332,
+        "mrp": 1440,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 2197,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "1 × 8",
+        "unit": "L",
+        "price": 3476,
+        "mrp": 3840,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 4346,
+        "mrp": 4800,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [
+      "Root Weevils",
+      "Plant Hoppers",
+      "Termites",
+      "White Grubs",
+      "Other Listed Insects"
+    ],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/hm-clause-madhuri-cauliflower-seeds",
+    "name": "HM Clause Madhuri F1 Hybrid Cauliflower Seeds",
+    "brand": "Clause Seeds",
+    "category": "seeds",
+    "subCategory": "flower-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 666,
+        "mrp": 894,
+        "inStock": true
+      },
+      {
+        "size": "20",
+        "unit": "g",
+        "price": 999,
+        "mrp": 1094,
+        "inStock": false
+      },
+      {
+        "size": "20 × 2",
+        "unit": "g",
+        "price": 1976,
+        "mrp": 2188,
+        "inStock": false
+      },
+      {
+        "size": "20 × 3",
+        "unit": "g",
+        "price": 2931,
+        "mrp": 3282,
+        "inStock": false
+      },
+      {
+        "size": "20 × 4",
+        "unit": "g",
+        "price": 3864,
+        "mrp": 4376,
+        "inStock": false
+      },
+      {
+        "size": "20 × 5",
+        "unit": "g",
+        "price": 4830,
+        "mrp": 5470,
+        "inStock": false
+      },
+      {
+        "size": "20 × 6",
+        "unit": "g",
+        "price": 5797,
+        "mrp": 6564,
+        "inStock": false
+      },
+      {
+        "size": "20 × 8",
+        "unit": "g",
+        "price": 7729,
+        "mrp": 8752,
+        "inStock": false
+      },
+      {
+        "size": "20 × 10",
+        "unit": "g",
+        "price": 9661,
+        "mrp": 10940,
+        "inStock": false
+      }
+    ],
+    "crops": [
+      "Cauliflower",
+      "Phool Gobhi"
+    ],
+    "pests": [],
+    "dosage": "As per manufacturer seed packet and local recommendations",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-biotech-greenstar-growth-promoter",
+    "name": "Greenlife Biotech Greenstar Plant Growth Promoter (Humic, Fulvic & Seaweed)",
+    "brand": "Greenlife Biotech",
+    "category": "plant-growth-regulators",
+    "subCategory": "",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 499,
+        "mrp": 620,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 985,
+        "mrp": 1240,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 2433,
+        "mrp": 3100,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 4804,
+        "mrp": 6200,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/chambal-uttam-recharge-npk-19-19-19",
+    "name": "Chambal Uttam Recharge NPK 19:19:19 Water Soluble Fertilizer",
+    "brand": "Chambal Fertilizers",
+    "category": "crop-nutrition",
+    "subCategory": "water-soluble-npk",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Water-Soluble Powder / Crystalline Fertilizer",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 349,
+        "mrp": 500,
+        "inStock": true
+      },
+      {
+        "size": "1 × 3",
+        "unit": "kg",
+        "price": 1047,
+        "mrp": 1500,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 1745,
+        "mrp": 2500,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 3490,
+        "mrp": 5000,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Vegetables",
+      "Fruits",
+      "Cereals"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sakata-supreme-hot-2010-chilli-seeds",
+    "name": "Sakata Supreme Hot 2010 Chilli Seeds F1 Hybrid",
+    "brand": "Sakata",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 849,
+        "mrp": 1090,
+        "inStock": true
+      },
+      {
+        "size": "20",
+        "unit": "g",
+        "price": 1549,
+        "mrp": 2170,
+        "inStock": true
+      },
+      {
+        "size": "30",
+        "unit": "g",
+        "price": 2249,
+        "mrp": 3270,
+        "inStock": true
+      },
+      {
+        "size": "40",
+        "unit": "g",
+        "price": 2949,
+        "mrp": 4360,
+        "inStock": true
+      },
+      {
+        "size": "50",
+        "unit": "g",
+        "price": 3649,
+        "mrp": 5440,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Chilli",
+      "Hot Pepper"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/gh-g-sitara-insecticide",
+    "name": "GH G-Sitara Insecticide (Thiamethoxam 25% WG)",
+    "brand": "GH Crop Protection Pvt. Ltd.",
+    "category": "crop-protection",
+    "subCategory": "insecticides",
+    "technicalContent": "Thiamethoxam 25% WG",
+    "activeIngredients": [
+      "thiamethoxam"
+    ],
+    "formulation": "WG",
+    "packs": [
+      {
+        "size": "250",
+        "unit": "g",
+        "price": 279,
+        "mrp": 665,
+        "inStock": true
+      },
+      {
+        "size": "250 × 4",
+        "unit": "g",
+        "price": 1089,
+        "mrp": 2660,
+        "inStock": true
+      },
+      {
+        "size": "250 × 8",
+        "unit": "g",
+        "price": 2125,
+        "mrp": 5320,
+        "inStock": true
+      },
+      {
+        "size": "250 × 10",
+        "unit": "g",
+        "price": 2590,
+        "mrp": 6650,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-green-bio-potash",
+    "name": "Greenlife Biotech Green Bio Potash Bio Fertilizer",
+    "brand": "Greenlife Biotech",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 449,
+        "mrp": 520,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 1849,
+        "mrp": 2750,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "L",
+        "price": 3643,
+        "mrp": 5500,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 5382,
+        "mrp": 8250,
+        "inStock": true
+      },
+      {
+        "size": "5 × 4",
+        "unit": "L",
+        "price": 7066,
+        "mrp": 11000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-green-beauveria-bio-insecticide",
+    "name": "Greenlife Biotech Green Beauveria Bio Insecticide (Beauveria bassiana)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Beauveria bassiana",
+    "activeIngredients": [
+      "beauveria bassiana"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 499,
+        "mrp": null,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 2399,
+        "mrp": 3125,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "L",
+        "price": 4735,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 7009,
+        "mrp": 9375,
+        "inStock": true
+      },
+      {
+        "size": "5 × 4",
+        "unit": "L",
+        "price": 9221,
+        "mrp": 12500,
+        "inStock": true
+      },
+      {
+        "size": "5 × 5",
+        "unit": "L",
+        "price": 11526,
+        "mrp": 15625,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-green-light-bio-fungicide",
+    "name": "Greenlife Biotech Green Light Bio Fungicide (Trichoderma viride)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Trichoderma viride",
+    "activeIngredients": [
+      "trichoderma viride"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 499,
+        "mrp": 710,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 2399,
+        "mrp": 3125,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "L",
+        "price": 4735,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 7009,
+        "mrp": 9375,
+        "inStock": true
+      },
+      {
+        "size": "5 × 4",
+        "unit": "L",
+        "price": 9221,
+        "mrp": 12500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "GreenLife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-green-combat-bio-fungicide",
+    "name": "Greenlife Biotech Green Combat Bio Fungicide (Pseudomonas fluorescens)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Pseudomonas fluorescens",
+    "activeIngredients": [
+      "pseudomonas fluorescens"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 499,
+        "mrp": 710,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "L",
+        "price": 2399,
+        "mrp": 3125,
+        "inStock": true
+      },
+      {
+        "size": "5 × 2",
+        "unit": "L",
+        "price": 4735,
+        "mrp": 6250,
+        "inStock": true
+      },
+      {
+        "size": "5 × 3",
+        "unit": "L",
+        "price": 7009,
+        "mrp": 9375,
+        "inStock": true
+      },
+      {
+        "size": "5 × 4",
+        "unit": "L",
+        "price": 9221,
+        "mrp": 12500,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "GreenLife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/greenlife-green-dual-bio-fungicide",
+    "name": "Greenlife Biotech Green Dual Bio Fungicide (Bacillus subtilis)",
+    "brand": "Green Heal",
+    "category": "crop-protection",
+    "subCategory": "bio-pesticides",
+    "technicalContent": "Bacillus subtilis",
+    "activeIngredients": [
+      "bacillus subtilis"
+    ],
+    "formulation": "Liquid Microbial Formulation",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 399,
+        "mrp": 480,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 788,
+        "mrp": 960,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 1971,
+        "mrp": 2400,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 3894,
+        "mrp": 4800,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Greenlife Biotech Laboratory"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/nsc-pusa-pragati-pea-seeds",
+    "name": "NSC Pusa Pragati Pea Seeds",
+    "brand": "National Seeds Corporation (NSC)",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 459,
+        "mrp": 590,
+        "inStock": true
+      },
+      {
+        "size": "2",
+        "unit": "kg",
+        "price": 919,
+        "mrp": 1180,
+        "inStock": true
+      },
+      {
+        "size": "3",
+        "unit": "kg",
+        "price": 1369,
+        "mrp": 1770,
+        "inStock": true
+      },
+      {
+        "size": "4",
+        "unit": "kg",
+        "price": 1829,
+        "mrp": 2360,
+        "inStock": true
+      },
+      {
+        "size": "5",
+        "unit": "kg",
+        "price": 2279,
+        "mrp": 2950,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Garden Pea",
+      "Green Pea (Matar)"
+    ],
+    "pests": [],
+    "dosage": "Follow the original NSC seed packet and local agronomic recommendations",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/kala-sona-gold-mustard-seeds",
+    "name": "Kala Sona Gold Mustard Seeds (Sarson Beej)",
+    "brand": "Bital Agri Seeds",
+    "category": "seeds",
+    "subCategory": "field-crop-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 299,
+        "mrp": 560,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "kg",
+        "price": 1467,
+        "mrp": 2800,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "kg",
+        "price": 2878,
+        "mrp": 5600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Mustard",
+      "Sarson"
+    ],
+    "pests": [],
+    "dosage": "Follow the Kala Sona Gold seed packet; general mustard rates vary with variety and sowing method",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/sml-flo-cal-plus-liquid-fertilizer",
+    "name": "SML FLO-CAL+ Fortified Calcium Suspension Liquid Fertilizer",
+    "brand": "SML Limited",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Liquid Suspension",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "L",
+        "price": 1499,
+        "mrp": 2000,
+        "inStock": true
+      },
+      {
+        "size": "1 × 2",
+        "unit": "L",
+        "price": 2958,
+        "mrp": 4000,
+        "inStock": true
+      },
+      {
+        "size": "1 × 5",
+        "unit": "L",
+        "price": 7295,
+        "mrp": 10000,
+        "inStock": true
+      },
+      {
+        "size": "1 × 10",
+        "unit": "L",
+        "price": 14390,
+        "mrp": 20000,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "SML Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/nasiri-garden-tools-pruning-shears",
+    "name": "Nasiri Garden Tools Pruning Shears Stainless Steel",
+    "brand": "Nasiri Garden Tools",
+    "category": "farm-tools-equipment",
+    "subCategory": "hand-tools",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "12",
+        "unit": "pcs",
+        "price": 1079,
+        "mrp": 1299,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/oswal-wall-up-71-herbicide",
+    "name": "Oswal Wall UP-71 Herbicide (Ammonium Salt of Glyphosate 71% SG)",
+    "brand": "Oswal Crop Protection",
+    "category": "crop-protection",
+    "subCategory": "herbicides",
+    "technicalContent": "Ammonium Salt of Glyphosate 71% SG",
+    "activeIngredients": [
+      "ammonium salt of glyphosate"
+    ],
+    "formulation": "SG – Water Soluble Granules",
+    "packs": [
+      {
+        "size": "100",
+        "unit": "g",
+        "price": 179,
+        "mrp": 180,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "Oswal Agro Rasayan Export"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/magenta-rashi-12-pata-cucumber-seeds",
+    "name": "Magenta Seeds Rashi 12 Pata Desi Cucumber Seeds",
+    "brand": "Magenta Seeds",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "50",
+        "unit": "g",
+        "price": 439,
+        "mrp": 560,
+        "inStock": true
+      },
+      {
+        "size": "50 × 2",
+        "unit": "g",
+        "price": 866,
+        "mrp": 1120,
+        "inStock": true
+      },
+      {
+        "size": "50 × 4",
+        "unit": "g",
+        "price": 1711,
+        "mrp": 2240,
+        "inStock": true
+      },
+      {
+        "size": "50 × 5",
+        "unit": "g",
+        "price": 2111,
+        "mrp": 2800,
+        "inStock": true
+      },
+      {
+        "size": "50 × 10",
+        "unit": "g",
+        "price": 4222,
+        "mrp": 5600,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Cucumber (Kheera)"
+    ],
+    "pests": [],
+    "dosage": "As per seed packet recommendation",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/agribee-seven-long-bitter-gourd",
+    "name": "AgriBee Seven Long Hybrid Bitter Gourd Seeds",
+    "brand": "AgriBee",
+    "category": "seeds",
+    "subCategory": "vegetable-seeds",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "10",
+        "unit": "g",
+        "price": 297,
+        "mrp": 999,
+        "inStock": true
+      },
+      {
+        "size": "10 × 2",
+        "unit": "g",
+        "price": 574,
+        "mrp": 1998.02,
+        "inStock": true
+      },
+      {
+        "size": "10 × 5",
+        "unit": "g",
+        "price": 1335,
+        "mrp": 4995.05,
+        "inStock": true
+      },
+      {
+        "size": "10 × 10",
+        "unit": "g",
+        "price": 2670,
+        "mrp": 9990.1,
+        "inStock": true
+      }
+    ],
+    "crops": [
+      "Bitter Gourd"
+    ],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/upl-copio-soil-probiotics-biofertilizer",
+    "name": "UPL Copio Soil Probiotics Biofertilizer",
+    "brand": "UPL",
+    "category": "crop-nutrition",
+    "subCategory": "organic-bio-fertilizers",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "Granules",
+    "packs": [
+      {
+        "size": "3",
+        "unit": "kg",
+        "price": 599,
+        "mrp": 900,
+        "inStock": true
+      },
+      {
+        "size": "3 × 2",
+        "unit": "kg",
+        "price": 1180,
+        "mrp": 1800,
+        "inStock": true
+      },
+      {
+        "size": "3 × 4",
+        "unit": "kg",
+        "price": 2288,
+        "mrp": 3600,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": "UPL Limited"
+  },
+  {
+    "sourceSite": "kisanshop.in",
+    "sourceUrl": "https://www.kisanshop.in/product/indo-swiss-swiss-poshak-fertilizer",
+    "name": "Swiss Poshak Fertilizer (Sulphur 90% Powder / Micro Granules)",
+    "brand": "Indo-Swiss Chemicals",
+    "category": "crop-nutrition",
+    "subCategory": "micronutrients",
+    "technicalContent": "",
+    "activeIngredients": [],
+    "formulation": "",
+    "packs": [
+      {
+        "size": "1",
+        "unit": "kg",
+        "price": 209,
+        "mrp": 210,
+        "inStock": true
+      },
+      {
+        "size": "3",
+        "unit": "kg",
+        "price": 629,
+        "mrp": 630,
+        "inStock": true
+      }
+    ],
+    "crops": [],
+    "pests": [],
+    "dosage": "",
+    "manufacturer": ""
+  }
+]

@@ -1,0 +1,21 @@
+
+== agribegri
+  350 product URLs found (processing up to 350)
+  25/350 pages, 13 usable records
+  50/350 pages, 36 usable records
+  75/350 pages, 61 usable records
+  100/350 pages, 83 usable records
+  125/350 pages, 103 usable records
+  150/350 pages, 127 usable records
+  175/350 pages, 147 usable records
+  200/350 pages, 147 usable records
+  225/350 pages, 147 usable records
+  250/350 pages, 147 usable records
+TypeError: Cannot read properties of undefined (reading 'replace')
+    at clean (C:\Users\Mayank\Documents\kissandukkan\scripts\scrape\extract.ts:25:32)
+    at Element.<anonymous> (C:\Users\Mayank\Documents\kissandukkan\scripts\scrape\extract.ts:72:20)
+    at LoadedCheerio.each (C:\Users\Mayank\Documents\kissandukkan\node_modules\cheerio\src\api\traversing.ts:648:24)
+    at attr (C:\Users\Mayank\Documents\kissandukkan\scripts\scrape\extract.ts:67:29)
+    at extractFacts (C:\Users\Mayank\Documents\kissandukkan\scripts\scrape\extract.ts:171:17)
+    at main (C:\Users\Mayank\Documents\kissandukkan\scripts\scrape\index.ts:133:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
