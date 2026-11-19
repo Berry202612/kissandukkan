@@ -61,15 +61,33 @@ async function main() {
     }
   }
 
-  // Default settings (create only). Business details start empty except trade name and support email.
+  // Default settings. Company details fill only empty fields (and the old placeholder support email).
   const defaults: Record<string, object> = {
-    business: { tradeName: "KissanDukkan", supportEmail: "support@kissandukkan.in" },
+    business: {
+      tradeName: "KissanDukkan",
+      legalName: "AGRIZENITH TECH PRIVATE LIMITED",
+      cin: "U62090DL2025PTC460639",
+      rocName: "ROC Delhi I",
+      registrationNo: "460639",
+      incorporationDate: "29/12/2025",
+      registeredAddress: "A-62-D, S-2 Floor, S Kalkaji, Kalkaji, South Delhi, New Delhi, Delhi, India, 110019",
+      supportEmail: "agrizenith5@gmail.com",
+      supportPhone: "+91 92117 66574",
+    },
     pricing: {},
     delivery: {},
     launch: {},
   };
   for (const [key, value] of Object.entries(defaults)) {
-    await db.setting.upsert({ where: { key }, create: { key, value }, update: {} });
+    const existing = await db.setting.findUnique({ where: { key } });
+    if (!existing) {
+      await db.setting.create({ data: { key, value } });
+      continue;
+    }
+    // Fill only fields that are still empty, so admin-panel edits are never overwritten.
+    const current = (existing.value ?? {}) as Record<string, unknown>;
+    const filled = Object.fromEntries(Object.entries(value).filter(([k]) => !current[k] || (key === "business" && k === "supportEmail" && current[k] === "support@kissandukkan.in")));
+    if (Object.keys(filled).length) await db.setting.update({ where: { key }, data: { value: { ...current, ...filled } } });
   }
 
   const counts = await Promise.all([db.category.count(), db.subCategory.count(), db.crop.count(), db.page.count(), db.faq.count(), db.article.count(), db.emailTemplate.count()]);

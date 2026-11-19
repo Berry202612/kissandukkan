@@ -17,6 +17,9 @@ export const businessSchema = z.object({
     .optional()
     .default(""),
   cin: opt,
+  rocName: opt,
+  registrationNo: opt,
+  incorporationDate: opt,
   pan: z.string().trim().toUpperCase().regex(/^$|^[A-Z]{5}[0-9]{4}[A-Z]$/, "Invalid PAN").optional().default(""),
   registeredAddress: opt,
   pickupAddress: opt,

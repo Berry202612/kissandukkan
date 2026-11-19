@@ -137,6 +137,7 @@ export async function Footer() {
           <div className="space-y-1 md:text-right">
             {licences.length > 0 && <p>{licences.join(" · ")}{b.licenceIssuingAuthority ? ` (${b.licenceIssuingAuthority})` : ""}</p>}
             {b.gstin && <p>{t("gstin")}: {b.gstin}</p>}
+            {b.cin && <p>CIN: {b.cin}{b.rocName ? ` · ${b.rocName}` : ""}</p>}
             <p>
               {t("madeInIndia")} · © {year} {b.legalName || b.tradeName}. {t("rights")}
             </p>

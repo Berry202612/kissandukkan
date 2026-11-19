@@ -39,6 +39,11 @@ export async function renderTokens(html: string, locale: "en" | "hi") {
     line(hi ? "ब्रांड नाम" : "Trade name", b.tradeName),
     line("GSTIN", b.gstin),
     line("CIN", b.cin),
+    line(hi ? "आरओसी" : "ROC", b.rocName),
+    line(hi ? "पंजीकरण संख्या" : "Registration number", b.registrationNo),
+    line(hi ? "निगमन की तारीख" : "Date of incorporation", b.incorporationDate),
+    line(hi ? "ईमेल" : "Email", b.supportEmail, `mailto:${b.supportEmail}`),
+    line(hi ? "फ़ोन" : "Phone", b.supportPhone, `tel:${b.supportPhone.replace(/s/g, "")}`),
     line(hi ? "रजिस्टर्ड पता" : "Registered address", b.registeredAddress),
   ].join("");
   const licences = [
