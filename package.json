@@ -18,7 +18,8 @@
     "scrape": "tsx scripts/scrape/index.ts",
     "import": "tsx scripts/import/index.ts",
     "demo-images": "tsx scripts/demo-images.ts",
-    "vercel-build": "node scripts/vercel-build.mjs"
+    "vercel-build": "node scripts/vercel-build.mjs",
+    "push-catalog": "tsx scripts/push-catalog.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
